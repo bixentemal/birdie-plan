@@ -1,0 +1,1658 @@
+[
+  {
+    "name": "ALBRET GOLF EXPERIENCE",
+    "city": "BARBASTE",
+    "department": "Lot-et-Garonne",
+    "department_code": "47",
+    "latitude": 44.1701233,
+    "longitude": 0.2867228
+  },
+  {
+    "name": "ANGOULEME GOLF L'HIRONDELLE",
+    "city": "ANGOULEME",
+    "department": "Charente",
+    "department_code": "16",
+    "latitude": 45.6484505,
+    "longitude": 0.1561947
+  },
+  {
+    "name": "BAYEUX OMAHA BEACH GOLF",
+    "city": "PORT EN BESSIN HUPPAIN",
+    "department": "Calvados",
+    "department_code": "14",
+    "latitude": 49.3458498,
+    "longitude": -0.7526611
+  },
+  {
+    "name": "CABOT BORDEAUX",
+    "city": "LE PIAN MEDOC",
+    "department": "Gironde",
+    "department_code": "33",
+    "latitude": 44.9549001,
+    "longitude": -0.6683986
+  },
+  {
+    "name": "CHATEAU L'ARC GOLF CLUB",
+    "city": "FUVEAU",
+    "department": "Bouches-du-Rhône",
+    "department_code": "13",
+    "latitude": 43.4539098,
+    "longitude": 5.5608088
+  },
+  {
+    "name": "COUNTRY CLUB DIJON BOURGOGNE",
+    "city": "NORGES LA VILLE",
+    "department": "Côte-d'Or",
+    "department_code": "21",
+    "latitude": 47.4065269,
+    "longitude": 5.0792717
+  },
+  {
+    "name": "CRECY GOLF",
+    "city": "CRECY LA CHAPELLE",
+    "department": "Seine-et-Marne",
+    "department_code": "77",
+    "latitude": 48.8578447,
+    "longitude": 2.9086092
+  },
+  {
+    "name": "DINARD GOLF",
+    "city": "SAINT BRIAC SUR MER",
+    "department": "Ille-et-Vilaine",
+    "department_code": "35",
+    "latitude": 48.6183398,
+    "longitude": -2.1327847
+  },
+  {
+    "name": "DOMAINE GOLF DE SAINT LAZARE",
+    "city": "LIMOGES",
+    "department": "Haute-Vienne",
+    "department_code": "87",
+    "latitude": 45.8354243,
+    "longitude": 1.2644847
+  },
+  {
+    "name": "ETIOLLES GOLF CLUB",
+    "city": "ETIOLLES",
+    "department": "Essonne",
+    "department_code": "91",
+    "latitude": 48.6380667,
+    "longitude": 2.4775273
+  },
+  {
+    "name": "EXCLUSIV GOLF CHAT. ROCHEFORT",
+    "city": "ROCHEFORT EN YVELINES",
+    "department": "Yvelines",
+    "department_code": "78",
+    "latitude": 48.5872266,
+    "longitude": 1.9878964
+  },
+  {
+    "name": "EXCLUSIV GOLF CHATEAU DE CELY",
+    "city": "CELY EN BIERE",
+    "department": "Seine-et-Marne",
+    "department_code": "77",
+    "latitude": 48.4590138,
+    "longitude": 2.5326635
+  },
+  {
+    "name": "EXCLUSIV GOLF DE BETHEMONT",
+    "city": "POISSY",
+    "department": "Yvelines",
+    "department_code": "78",
+    "latitude": 48.9274192,
+    "longitude": 2.0426301
+  },
+  {
+    "name": "EXCLUSIV GOLF DE CICE-BLOSSAC",
+    "city": "BRUZ",
+    "department": "Ille-et-Vilaine",
+    "department_code": "35",
+    "latitude": 48.0245814,
+    "longitude": -1.7471629
+  },
+  {
+    "name": "GARDEN GOLF DE CERGY",
+    "city": "VAUREAL",
+    "department": "Val-d'Oise",
+    "department_code": "95",
+    "latitude": 49.1279436,
+    "longitude": 1.764111
+  },
+  {
+    "name": "GARDEN GOLF DE SENART",
+    "city": "ST PIERRE DU PERRAY",
+    "department": "Essonne",
+    "department_code": "91",
+    "latitude": 48.6137867,
+    "longitude": 2.505381
+  },
+  {
+    "name": "GARDEN GOLF FORET DE CHANTILLY",
+    "city": "VINEUIL SAINT FIRMIN",
+    "department": "Oise",
+    "department_code": "60",
+    "latitude": 49.2001504,
+    "longitude": 2.4916222
+  },
+  {
+    "name": "GARDEN GOLF ST-GERMAIN/CORBEIL",
+    "city": "SAINT GERMAIN LES CORBEIL",
+    "department": "Essonne",
+    "department_code": "91",
+    "latitude": 48.6261053,
+    "longitude": 2.4913639
+  },
+  {
+    "name": "GOLF & COUNTRY CLUB DE BOSSEY",
+    "city": "BOSSEY",
+    "department": "Haute-Savoie",
+    "department_code": "74",
+    "latitude": 46.1516629,
+    "longitude": 6.1588637
+  },
+  {
+    "name": "GOLF AIX-MARSEILLE",
+    "city": "LES MILLES",
+    "department": "Bouches-du-Rhône",
+    "department_code": "13",
+    "latitude": 43.5036881,
+    "longitude": 5.3873997
+  },
+  {
+    "name": "GOLF ALPES PROVENCE GAP BAYARD",
+    "city": "GAP",
+    "department": "Hautes-Alpes",
+    "department_code": "05",
+    "latitude": 44.5612032,
+    "longitude": 6.0820639
+  },
+  {
+    "name": "GOLF BEZIERS SAINT THOMAS",
+    "city": "BEZIERS",
+    "department": "Hérault",
+    "department_code": "34",
+    "latitude": 43.3426562,
+    "longitude": 3.2131307
+  },
+  {
+    "name": "GOLF BLUEGREEN BADEN",
+    "city": "BADEN",
+    "department": "Morbihan",
+    "department_code": "56",
+    "latitude": 47.6199988,
+    "longitude": -2.9184744
+  },
+  {
+    "name": "GOLF BLUEGREEN BORDEAUX LAC",
+    "city": "BORDEAUX",
+    "department": "Gironde",
+    "department_code": "33",
+    "latitude": 44.841225,
+    "longitude": -0.5800364
+  },
+  {
+    "name": "GOLF BLUEGREEN DUNKERQUE GRAND LITTORAL",
+    "city": "COUDEKERQUE",
+    "department": "Nord",
+    "department_code": "59",
+    "latitude": 50.9940083,
+    "longitude": 2.419676
+  },
+  {
+    "name": "GOLF BLUEGREEN GRAND LYON CHASSIEU",
+    "city": "CHASSIEU",
+    "department": "Métropole de Lyon",
+    "department_code": "69",
+    "latitude": 45.7422756,
+    "longitude": 4.9681796
+  },
+  {
+    "name": "GOLF BLUEGREEN GUJAN-MESTRAS",
+    "city": "GUJAN MESTRAS",
+    "department": "Gironde",
+    "department_code": "33",
+    "latitude": 44.6360982,
+    "longitude": -1.0714014
+  },
+  {
+    "name": "GOLF BLUEGREEN L'ODET",
+    "city": "BENODET",
+    "department": "Finistère",
+    "department_code": "29",
+    "latitude": 47.8746373,
+    "longitude": -4.1109828
+  },
+  {
+    "name": "GOLF BLUEGREEN LA DOMANGERE",
+    "city": "NESMY",
+    "department": "Vendée",
+    "department_code": "85",
+    "latitude": 46.5922222,
+    "longitude": -1.4025
+  },
+  {
+    "name": "GOLF BLUEGREEN MAZIERES EN GATINE",
+    "city": "MAZIERES EN GATINE",
+    "department": "Deux-Sèvres",
+    "department_code": "79",
+    "latitude": 46.5327178,
+    "longitude": -0.322791
+  },
+  {
+    "name": "GOLF BLUEGREEN NIORT ROMAGNE",
+    "city": "NIORT",
+    "department": "Deux-Sèvres",
+    "department_code": "79",
+    "latitude": 46.3239233,
+    "longitude": -0.4646064
+  },
+  {
+    "name": "GOLF BLUEGREEN PAU ARTIGUELOUVE",
+    "city": "ARTIGUELOUVE",
+    "department": "Pyrénées-Atlantiques",
+    "department_code": "64",
+    "latitude": 43.320145,
+    "longitude": -0.4726674
+  },
+  {
+    "name": "GOLF BLUEGREEN PESSAC",
+    "city": "PESSAC",
+    "department": "Gironde",
+    "department_code": "33",
+    "latitude": 44.805615,
+    "longitude": -0.6308396
+  },
+  {
+    "name": "GOLF BLUEGREEN PLOEMEUR-OCEAN",
+    "city": "PLOEMEUR",
+    "department": "Morbihan",
+    "department_code": "56",
+    "latitude": 47.7354591,
+    "longitude": -3.4270534
+  },
+  {
+    "name": "GOLF BLUEGREEN QUETIGNY GRAND DIJON",
+    "city": "QUETIGNY",
+    "department": "Côte-d'Or",
+    "department_code": "21",
+    "latitude": 47.3125861,
+    "longitude": 5.1162694
+  },
+  {
+    "name": "GOLF BLUEGREEN RENNES ST JACQUES",
+    "city": "SAINT JACQUES DE LA LANDE",
+    "department": "Ille-et-Vilaine",
+    "department_code": "35",
+    "latitude": 48.0806436,
+    "longitude": -1.7135029
+  },
+  {
+    "name": "GOLF BLUEGREEN ROCHEFORT OCEAN",
+    "city": "SAINT-LAURENT DE LA PREE",
+    "department": "Charente-Maritime",
+    "department_code": "17",
+    "latitude": 45.981944,
+    "longitude": -1.04
+  },
+  {
+    "name": "GOLF BLUEGREEN SAINT LAURENT",
+    "city": "AURAY",
+    "department": "Morbihan",
+    "department_code": "56",
+    "latitude": 47.6664485,
+    "longitude": -2.9833718
+  },
+  {
+    "name": "GOLF BLUEGREEN SAINTE MAXIME",
+    "city": "SAINTE MAXIME",
+    "department": "Var",
+    "department_code": "83",
+    "latitude": 43.30871,
+    "longitude": 6.637714
+  },
+  {
+    "name": "GOLF BLUEGREEN SAVENAY",
+    "city": "SAVENAY",
+    "department": "Loire-Atlantique",
+    "department_code": "44",
+    "latitude": 47.3592304,
+    "longitude": -1.9421244
+  },
+  {
+    "name": "GOLF BLUEGREEN TOURS ARDREE",
+    "city": "SAINT ANTOINE DU ROCHER",
+    "department": "Indre-et-Loire",
+    "department_code": "37",
+    "latitude": 47.496733,
+    "longitude": 0.6303753
+  },
+  {
+    "name": "GOLF BLUEGREEN VAL QUEVEN",
+    "city": "QUEVEN",
+    "department": "Morbihan",
+    "department_code": "56",
+    "latitude": 47.788792,
+    "longitude": -3.4161464
+  },
+  {
+    "name": "GOLF BORDELAIS",
+    "city": "BORDEAUX",
+    "department": "Gironde",
+    "department_code": "33",
+    "latitude": 44.841225,
+    "longitude": -0.5800364
+  },
+  {
+    "name": "GOLF CHANALETS BOURG VALENCE",
+    "city": "BOURG LES VALENCE",
+    "department": "Drôme",
+    "department_code": "26",
+    "latitude": 44.9528222,
+    "longitude": 4.8953847
+  },
+  {
+    "name": "GOLF CLUB D'ABLEIGES",
+    "city": "ABLEIGES",
+    "department": "Val-d'Oise",
+    "department_code": "95",
+    "latitude": 49.0901646,
+    "longitude": 1.9812325
+  },
+  {
+    "name": "GOLF CLUB D'AMIENS",
+    "city": "QUERRIEU",
+    "department": "Somme",
+    "department_code": "80",
+    "latitude": 49.9391133,
+    "longitude": 2.431445
+  },
+  {
+    "name": "GOLF CLUB D'HOSSEGOR",
+    "city": "HOSSEGOR",
+    "department": "Pyrénées-Orientales",
+    "department_code": "66",
+    "latitude": 42.672696,
+    "longitude": 3.0308142
+  },
+  {
+    "name": "GOLF CLUB DE CABOURG LE HOME",
+    "city": "VARAVILLE",
+    "department": "Calvados",
+    "department_code": "14",
+    "latitude": 49.253386,
+    "longitude": -0.1582652
+  },
+  {
+    "name": "GOLF CLUB DE CAMPAGNE",
+    "city": "NIMES",
+    "department": "Gard",
+    "department_code": "30",
+    "latitude": 43.8374249,
+    "longitude": 4.3600687
+  },
+  {
+    "name": "GOLF CLUB DE CHAMONIX MT BLANC",
+    "city": "LES PRAZ DE CHAMONIX",
+    "department": "Haute-Savoie",
+    "department_code": "74",
+    "latitude": 45.9404532,
+    "longitude": 6.8865884
+  },
+  {
+    "name": "GOLF CLUB DE LYON",
+    "city": "VILLETTE D'ANTHON",
+    "department": "Isère",
+    "department_code": "38",
+    "latitude": 45.79451,
+    "longitude": 5.1130506
+  },
+  {
+    "name": "GOLF CLUB DE MORTEMART",
+    "city": "MORTEMART",
+    "department": "Haute-Vienne",
+    "department_code": "87",
+    "latitude": 46.0415562,
+    "longitude": 0.9562559
+  },
+  {
+    "name": "GOLF CLUB DE PERIGUEUX",
+    "city": "MARSAC SUR L'ISLE",
+    "department": "Dordogne",
+    "department_code": "24",
+    "latitude": 45.1833605,
+    "longitude": 0.6561616
+  },
+  {
+    "name": "GOLF CLUB DE STRASBOURG",
+    "city": "ILLKIRCH GRAFFENSTADEN",
+    "department": "Bas-Rhin",
+    "department_code": "67",
+    "latitude": 48.5299117,
+    "longitude": 7.7113254
+  },
+  {
+    "name": "GOLF CLUB DE TOULOUSE",
+    "city": "VIEILLE TOULOUSE",
+    "department": "Haute-Garonne",
+    "department_code": "31",
+    "latitude": 43.535,
+    "longitude": 1.4375
+  },
+  {
+    "name": "GOLF CLUB DES BOULEAUX",
+    "city": "WITTELSHEIM",
+    "department": "Haut-Rhin",
+    "department_code": "68",
+    "latitude": 47.8091086,
+    "longitude": 7.2402432
+  },
+  {
+    "name": "GOLF CLUB DOMAINE DE CHAMPLONG",
+    "city": "VILLEREST",
+    "department": "Loire",
+    "department_code": "42",
+    "latitude": 45.9939206,
+    "longitude": 4.0369461
+  },
+  {
+    "name": "GOLF CLUB DU FOREZ",
+    "city": "CRAINTILLEUX",
+    "department": "Loire",
+    "department_code": "42",
+    "latitude": 45.5843,
+    "longitude": 4.23378
+  },
+  {
+    "name": "GOLF CLUB DU VAL DE L'INDRE",
+    "city": "VILLEDIEU SUR INDRE",
+    "department": "Indre",
+    "department_code": "36",
+    "latitude": 46.8474516,
+    "longitude": 1.5375901
+  },
+  {
+    "name": "GOLF CLUB ESPALAIS",
+    "city": "ESPALAIS",
+    "department": "Tarn-et-Garonne",
+    "department_code": "82",
+    "latitude": 44.0772222,
+    "longitude": 0.9038889
+  },
+  {
+    "name": "GOLF CLUB MAZAMET LA BAROUGE",
+    "city": "PONT DE L'ARN",
+    "department": "Tarn",
+    "department_code": "81",
+    "latitude": 43.5301927,
+    "longitude": 2.4058402
+  },
+  {
+    "name": "GOLF CLUB MONTPELLIER MASSANE",
+    "city": "BAILLARGUES",
+    "department": "Hérault",
+    "department_code": "34",
+    "latitude": 43.6609569,
+    "longitude": 4.0133114
+  },
+  {
+    "name": "GOLF CLUB THUMERIES-MONCHEAUX",
+    "city": "THUMERIES",
+    "department": "Nord",
+    "department_code": "59",
+    "latitude": 50.4725,
+    "longitude": 3.06638
+  },
+  {
+    "name": "GOLF COUNTRY CLUB DE PALMOLA",
+    "city": "BUZET-SUR-TARN",
+    "department": "Haute-Garonne",
+    "department_code": "31",
+    "latitude": 43.7793427,
+    "longitude": 1.6323299
+  },
+  {
+    "name": "GOLF COUNTRY CLUB DE ST DONAT",
+    "city": "PLAN DE GRASSE",
+    "department": "Alpes-Maritimes",
+    "department_code": "06",
+    "latitude": 43.6498966,
+    "longitude": 6.9522696
+  },
+  {
+    "name": "GOLF D'AIX EN PROVENCE",
+    "city": "AIX EN PROVENCE",
+    "department": "Bouches-du-Rhône",
+    "department_code": "13",
+    "latitude": 43.5298424,
+    "longitude": 5.4474738
+  },
+  {
+    "name": "GOLF D'ALBON",
+    "city": "ALBON",
+    "department": "Drôme",
+    "department_code": "26",
+    "latitude": 45.2450813,
+    "longitude": 4.8489303
+  },
+  {
+    "name": "GOLF D'APREMONT",
+    "city": "APREMONT",
+    "department": "Oise",
+    "department_code": "60",
+    "latitude": 49.2247297,
+    "longitude": 2.5113646
+  },
+  {
+    "name": "GOLF D'EAUZE GRAND ARMAGNAC",
+    "city": "EAUZE",
+    "department": "Gers",
+    "department_code": "32",
+    "latitude": 43.8613548,
+    "longitude": 0.1003051
+  },
+  {
+    "name": "GOLF D'HARDELOT",
+    "city": "NEUFCHATEL HARDELOT",
+    "department": "Pas-de-Calais",
+    "department_code": "62",
+    "latitude": 50.6188491,
+    "longitude": 1.6306156
+  },
+  {
+    "name": "GOLF D'ORLEANS-LIMERE",
+    "city": "ARDON",
+    "department": "Loiret",
+    "department_code": "45",
+    "latitude": 47.77747,
+    "longitude": 1.87302
+  },
+  {
+    "name": "GOLF D'ORMESSON",
+    "city": "ORMESSON SUR MARNE",
+    "department": "Val-de-Marne",
+    "department_code": "94",
+    "latitude": 48.785641,
+    "longitude": 2.5483998
+  },
+  {
+    "name": "GOLF D'OZOIR LA FERRIERE",
+    "city": "OZOIR LA FERRIERE",
+    "department": "Seine-et-Marne",
+    "department_code": "77",
+    "latitude": 48.7620904,
+    "longitude": 2.6719421
+  },
+  {
+    "name": "GOLF DE BARBAROUX",
+    "city": "BRIGNOLES",
+    "department": "Var",
+    "department_code": "83",
+    "latitude": 43.4064401,
+    "longitude": 6.0616452
+  },
+  {
+    "name": "GOLF DE BAUGE",
+    "city": "BAUGE-EN-ANJOU",
+    "department": "Maine-et-Loire",
+    "department_code": "49",
+    "latitude": 47.5612379,
+    "longitude": -0.1036842
+  },
+  {
+    "name": "GOLF DE BELLE DUNE",
+    "city": "FORT MAHON PLAGE",
+    "department": "Somme",
+    "department_code": "80",
+    "latitude": 50.3418305,
+    "longitude": 1.5623072
+  },
+  {
+    "name": "GOLF DE BELLEME SAINT MARTIN",
+    "city": "BELLEME",
+    "department": "Orne",
+    "department_code": "61",
+    "latitude": 48.3753612,
+    "longitude": 0.5629418
+  },
+  {
+    "name": "GOLF DE BIARRITZ LE PHARE",
+    "city": "BIARRITZ",
+    "department": "Pyrénées-Atlantiques",
+    "department_code": "64",
+    "latitude": 43.4832523,
+    "longitude": -1.5592776
+  },
+  {
+    "name": "GOLF DE BONDUES",
+    "city": "BONDUES",
+    "department": "Nord",
+    "department_code": "59",
+    "latitude": 50.7034622,
+    "longitude": 3.0921638
+  },
+  {
+    "name": "GOLF DE BOURGES",
+    "city": "BOURGES",
+    "department": "Cher",
+    "department_code": "18",
+    "latitude": 47.0811658,
+    "longitude": 2.399125
+  },
+  {
+    "name": "GOLF DE BRIGODE",
+    "city": "VILLENEUVE D'ASCQ",
+    "department": "Nord",
+    "department_code": "59",
+    "latitude": 50.6193174,
+    "longitude": 3.1314002
+  },
+  {
+    "name": "GOLF DE BUSSY-GUERMANTES",
+    "city": "BUSSY SAINT GEORGES",
+    "department": "Seine-et-Marne",
+    "department_code": "77",
+    "latitude": 48.8389953,
+    "longitude": 2.7171086
+  },
+  {
+    "name": "GOLF DE CAEN GARCELLES",
+    "city": "LE CASTELET",
+    "department": "Calvados",
+    "department_code": "14",
+    "latitude": 49.08707,
+    "longitude": -0.2882907
+  },
+  {
+    "name": "GOLF DE CAEN LA MER",
+    "city": "BIEVILLE BEUVILLE",
+    "department": "Calvados",
+    "department_code": "14",
+    "latitude": 49.2386789,
+    "longitude": -0.3288006
+  },
+  {
+    "name": "GOLF DE CASTELJALOUX",
+    "city": "CASTELJALOUX",
+    "department": "Lot-et-Garonne",
+    "department_code": "47",
+    "latitude": 44.3142971,
+    "longitude": 0.0880691
+  },
+  {
+    "name": "GOLF DE CASTRES-GOURJADE",
+    "city": "CASTRES",
+    "department": "Tarn",
+    "department_code": "81",
+    "latitude": 43.6053809,
+    "longitude": 2.2411289
+  },
+  {
+    "name": "GOLF DE CHALONS EN CHAMPAGNE",
+    "city": "COURTISOLS",
+    "department": "Marne",
+    "department_code": "51",
+    "latitude": 48.9865731,
+    "longitude": 4.516097
+  },
+  {
+    "name": "GOLF DE CHIBERTA",
+    "city": "ANGLET",
+    "department": "Pyrénées-Atlantiques",
+    "department_code": "64",
+    "latitude": 43.4813927,
+    "longitude": -1.5149935
+  },
+  {
+    "name": "GOLF DE CHOLET",
+    "city": "CHOLET",
+    "department": "Maine-et-Loire",
+    "department_code": "49",
+    "latitude": 47.0617293,
+    "longitude": -0.8801359
+  },
+  {
+    "name": "GOLF DE COURSON STADE FRANCAIS",
+    "city": "COURSON MONTELOUP",
+    "department": "Essonne",
+    "department_code": "91",
+    "latitude": 48.5922603,
+    "longitude": 2.1451135
+  },
+  {
+    "name": "GOLF DE DOMONT MONTMORENCY",
+    "city": "DOMONT",
+    "department": "Val-d'Oise",
+    "department_code": "95",
+    "latitude": 49.0285536,
+    "longitude": 2.3278097
+  },
+  {
+    "name": "GOLF DE FONTAINEBLEAU",
+    "city": "FONTAINEBLEAU",
+    "department": "Seine-et-Marne",
+    "department_code": "77",
+    "latitude": 48.4049375,
+    "longitude": 2.7015872
+  },
+  {
+    "name": "GOLF DE FOURQUEUX",
+    "city": "FOURQUEUX",
+    "department": "Yvelines",
+    "department_code": "78",
+    "latitude": 48.8865297,
+    "longitude": 2.0644977
+  },
+  {
+    "name": "GOLF DE GRANVILLE BAIE ST MICHEL",
+    "city": "BREVILLE SUR MER",
+    "department": "Manche",
+    "department_code": "50",
+    "latitude": 48.8651125,
+    "longitude": -1.5576965
+  },
+  {
+    "name": "GOLF DE GRENOBLE CHARMEIL",
+    "city": "SAINT QUENTIN SUR ISERE",
+    "department": "Isère",
+    "department_code": "38",
+    "latitude": 45.2813529,
+    "longitude": 5.5471606
+  },
+  {
+    "name": "GOLF DE GUERANDE",
+    "city": "GUERANDE",
+    "department": "Loire-Atlantique",
+    "department_code": "44",
+    "latitude": 47.3282126,
+    "longitude": -2.4298014
+  },
+  {
+    "name": "GOLF DE HAUTE AUVERGNE",
+    "city": "SANSAC DE MARMIESSE",
+    "department": "Cantal",
+    "department_code": "15",
+    "latitude": 44.8824607,
+    "longitude": 2.3485484
+  },
+  {
+    "name": "GOLF DE L'AILETTE",
+    "city": "CERNY EN LAONNOIS",
+    "department": "Aisne",
+    "department_code": "02",
+    "latitude": 49.4438685,
+    "longitude": 3.6686223
+  },
+  {
+    "name": "GOLF DE L'ARIEGE",
+    "city": "LA BASTIDE DE SEROU",
+    "department": "Ariège",
+    "department_code": "09",
+    "latitude": 43.0115497,
+    "longitude": 1.4283987
+  },
+  {
+    "name": "GOLF DE L'ISLE ADAM",
+    "city": "L'ISLE ADAM",
+    "department": "Val-d'Oise",
+    "department_code": "95",
+    "latitude": 49.1125294,
+    "longitude": 2.2186324
+  },
+  {
+    "name": "GOLF DE LA BRESSE",
+    "city": "CONDEISSIAT",
+    "department": "Ain",
+    "department_code": "01",
+    "latitude": 46.1562,
+    "longitude": 5.07952
+  },
+  {
+    "name": "GOLF DE LA CHASSAGNE",
+    "city": "MALAIN",
+    "department": "Côte-d'Or",
+    "department_code": "21",
+    "latitude": 47.3249791,
+    "longitude": 4.7957471
+  },
+  {
+    "name": "GOLF DE LA FORTERESSE",
+    "city": "THOURY FERROTTES",
+    "department": "Seine-et-Marne",
+    "department_code": "77",
+    "latitude": 48.2915087,
+    "longitude": 2.9414205
+  },
+  {
+    "name": "GOLF DE LA GRANGE AUX ORMES",
+    "city": "MARLY",
+    "department": "Nord",
+    "department_code": "59",
+    "latitude": 50.3500747,
+    "longitude": 3.5435909
+  },
+  {
+    "name": "GOLF DE LA MARTERIE",
+    "city": "ST FELIX REILHAC MORTEMART",
+    "department": "Dordogne",
+    "department_code": "24",
+    "latitude": 45.0198908,
+    "longitude": 0.915432
+  },
+  {
+    "name": "GOLF DE LA NIVELLE",
+    "city": "CIBOURE",
+    "department": "Pyrénées-Atlantiques",
+    "department_code": "64",
+    "latitude": 43.3844003,
+    "longitude": -1.6676238
+  },
+  {
+    "name": "GOLF DE LA PORCELAINE",
+    "city": "PANAZOL",
+    "department": "Haute-Vienne",
+    "department_code": "87",
+    "latitude": 45.8369971,
+    "longitude": 1.3059422
+  },
+  {
+    "name": "GOLF DE LA PREE - LA ROCHELLE",
+    "city": "MARSILLY",
+    "department": "Charente-Maritime",
+    "department_code": "17",
+    "latitude": 46.231389,
+    "longitude": -1.136667
+  },
+  {
+    "name": "GOLF DE LERY POSES",
+    "city": "POSES",
+    "department": "Eure",
+    "department_code": "27",
+    "latitude": 49.3078259,
+    "longitude": 1.2387989
+  },
+  {
+    "name": "GOLF DE LILLE METROPOLE",
+    "city": "RONCHIN",
+    "department": "Nord",
+    "department_code": "59",
+    "latitude": 50.6056749,
+    "longitude": 3.0778827
+  },
+  {
+    "name": "GOLF DE MARCILLY-ORLEANS",
+    "city": "MARCILLY EN VILLETTE",
+    "department": "Loiret",
+    "department_code": "45",
+    "latitude": 47.76351,
+    "longitude": 2.0215
+  },
+  {
+    "name": "GOLF DE MARIVAUX",
+    "city": "JANVRY",
+    "department": "Marne",
+    "department_code": "51",
+    "latitude": 49.2459051,
+    "longitude": 3.8767333
+  },
+  {
+    "name": "GOLF DE MEAUX BOUTIGNY",
+    "city": "BOUTIGNY",
+    "department": "Seine-et-Marne",
+    "department_code": "77",
+    "latitude": 48.9209326,
+    "longitude": 2.9296609
+  },
+  {
+    "name": "GOLF DE METZ CHERISEY",
+    "city": "CHERISEY",
+    "department": "Moselle",
+    "department_code": "57",
+    "latitude": 49.0134,
+    "longitude": 6.2349
+  },
+  {
+    "name": "GOLF DE MOLIETS",
+    "city": "MOLIETS ET MAA",
+    "department": "Landes",
+    "department_code": "40",
+    "latitude": 43.8487438,
+    "longitude": -1.359045
+  },
+  {
+    "name": "GOLF DE MONT DE MARSAN",
+    "city": "SAINT AVIT",
+    "department": "Landes",
+    "department_code": "40",
+    "latitude": 43.9422,
+    "longitude": -0.444167
+  },
+  {
+    "name": "GOLF DE MONTAUBAN L'ESTANG",
+    "city": "MONTAUBAN",
+    "department": "Tarn-et-Garonne",
+    "department_code": "82",
+    "latitude": 44.0175835,
+    "longitude": 1.3549991
+  },
+  {
+    "name": "GOLF DE MORMAL",
+    "city": "PREUX AU SART",
+    "department": "Nord",
+    "department_code": "59",
+    "latitude": 50.2836214,
+    "longitude": 3.6873307
+  },
+  {
+    "name": "GOLF DE POITIERS-MIGNALOUX",
+    "city": "MIGNALOUX BEAUVOIR",
+    "department": "Vienne",
+    "department_code": "86",
+    "latitude": 46.5443255,
+    "longitude": 0.4148949
+  },
+  {
+    "name": "GOLF DE PREISCH",
+    "city": "BASSE RENTGEN",
+    "department": "Moselle",
+    "department_code": "57",
+    "latitude": 49.4835426,
+    "longitude": 6.2033524
+  },
+  {
+    "name": "GOLF DE PRUNEVELLE",
+    "city": "DAMPIERRE SUR LE DOUBS",
+    "department": "Doubs",
+    "department_code": "25",
+    "latitude": 47.4738644,
+    "longitude": 6.7324675
+  },
+  {
+    "name": "GOLF DE RARAY",
+    "city": "RARAY",
+    "department": "Oise",
+    "department_code": "60",
+    "latitude": 49.2596789,
+    "longitude": 2.7151668
+  },
+  {
+    "name": "GOLF DE REBETZ",
+    "city": "CHAUMONT EN VEXIN",
+    "department": "Oise",
+    "department_code": "60",
+    "latitude": 49.2625682,
+    "longitude": 1.8821405
+  },
+  {
+    "name": "GOLF DE REIMS",
+    "city": "GUEUX",
+    "department": "Marne",
+    "department_code": "51",
+    "latitude": 49.2511954,
+    "longitude": 3.9102946
+  },
+  {
+    "name": "GOLF DE ROQUEBRUNE",
+    "city": "ROQUEBRUNE SUR ARGENS",
+    "department": "Var",
+    "department_code": "83",
+    "latitude": 43.4433565,
+    "longitude": 6.6363623
+  },
+  {
+    "name": "GOLF DE ROUEN MONT ST AIGNAN",
+    "city": "MONT SAINT AIGNAN",
+    "department": "Seine-Maritime",
+    "department_code": "76",
+    "latitude": 49.4679,
+    "longitude": 1.0813
+  },
+  {
+    "name": "GOLF DE ROUGEMONT LE CHATEAU",
+    "city": "ROUGEMONT LE CHATEAU",
+    "department": "Territoire-de-Belfort",
+    "department_code": "90",
+    "latitude": 47.7360641,
+    "longitude": 6.9678379
+  },
+  {
+    "name": "GOLF DE ROYAN",
+    "city": "SAINT PALAIS SUR MER",
+    "department": "Charente-Maritime",
+    "department_code": "17",
+    "latitude": 45.6428769,
+    "longitude": -1.0859957
+  },
+  {
+    "name": "GOLF DE SABLE-SOLESMES",
+    "city": "SABLE SUR SARTHE",
+    "department": "Sarthe",
+    "department_code": "72",
+    "latitude": 47.8400712,
+    "longitude": -0.3352048
+  },
+  {
+    "name": "GOLF DE SAINT CLOUD",
+    "city": "GARCHES",
+    "department": "Hauts-de-Seine",
+    "department_code": "92",
+    "latitude": 48.8437486,
+    "longitude": 2.1853699
+  },
+  {
+    "name": "GOLF DE SAINT NOM LA BRETECHE",
+    "city": "SAINT NOM LA BRETECHE",
+    "department": "Yvelines",
+    "department_code": "78",
+    "latitude": 48.8641009,
+    "longitude": 2.0205241
+  },
+  {
+    "name": "GOLF DE SAINT-GERMAIN",
+    "city": "SAINT GERMAIN EN LAYE",
+    "department": "Yvelines",
+    "department_code": "78",
+    "latitude": 48.8990413,
+    "longitude": 2.0942792
+  },
+  {
+    "name": "GOLF DE SAINT-MALO",
+    "city": "LE TRONCHET",
+    "department": "Ille-et-Vilaine",
+    "department_code": "35",
+    "latitude": 48.4862442,
+    "longitude": -1.838977
+  },
+  {
+    "name": "GOLF DE SPERONE",
+    "city": "BONIFACIO",
+    "department": "Corse-du-Sud",
+    "department_code": "2A",
+    "latitude": 41.3878259,
+    "longitude": 9.1606179
+  },
+  {
+    "name": "GOLF DE TARBES LES TUMULUS",
+    "city": "LALOUBERE",
+    "department": "Hautes-Pyrénées",
+    "department_code": "65",
+    "latitude": 43.2057612,
+    "longitude": 0.0721598
+  },
+  {
+    "name": "GOLF DE TOURAINE",
+    "city": "BALLAN MIRE",
+    "department": "Indre-et-Loire",
+    "department_code": "37",
+    "latitude": 47.3413214,
+    "longitude": 0.6131325
+  },
+  {
+    "name": "GOLF DE TROYES LA CORDELIERE",
+    "city": "CHAOURCE",
+    "department": "Aube",
+    "department_code": "10",
+    "latitude": 48.0581589,
+    "longitude": 4.1371816
+  },
+  {
+    "name": "GOLF DE VAL-GRAND",
+    "city": "BONDOUFLE",
+    "department": "Essonne",
+    "department_code": "91",
+    "latitude": 48.6137157,
+    "longitude": 2.3805119
+  },
+  {
+    "name": "GOLF DE VALCROS",
+    "city": "LA LONDE LES MAURES",
+    "department": "Var",
+    "department_code": "83",
+    "latitude": 43.1381313,
+    "longitude": 6.2355346
+  },
+  {
+    "name": "GOLF DE VALENCE SAINT DIDIER",
+    "city": "CHARPEY",
+    "department": "Drôme",
+    "department_code": "26",
+    "latitude": 44.9387472,
+    "longitude": 5.0929503
+  },
+  {
+    "name": "GOLF DE VALESCURE",
+    "city": "SAINT RAPHAEL",
+    "department": "Var",
+    "department_code": "83",
+    "latitude": 43.4254,
+    "longitude": 6.7688
+  },
+  {
+    "name": "GOLF DE VALGARDE",
+    "city": "LA GARDE",
+    "department": "Var",
+    "department_code": "83",
+    "latitude": 43.1249185,
+    "longitude": 6.0128532
+  },
+  {
+    "name": "GOLF DE VILLARCEAUX",
+    "city": "CHAUSSY",
+    "department": "Loiret",
+    "department_code": "45",
+    "latitude": 48.1693503,
+    "longitude": 1.9805767
+  },
+  {
+    "name": "GOLF DE VILLENEUVE SUR LOT",
+    "city": "CASTELNAUD DE GRATECAMBE",
+    "department": "Lot-et-Garonne",
+    "department_code": "47",
+    "latitude": 44.4979614,
+    "longitude": 0.669986
+  },
+  {
+    "name": "GOLF DES 24 HEURES - LE MANS",
+    "city": "MULSANNE",
+    "department": "Sarthe",
+    "department_code": "72",
+    "latitude": 47.9069356,
+    "longitude": 0.2460607
+  },
+  {
+    "name": "GOLF DES BOUCLES DE SEINE",
+    "city": "MOISSON-MOUSSEAUX",
+    "department": "Yvelines",
+    "department_code": "78",
+    "latitude": 49.0626296,
+    "longitude": 1.6519448
+  },
+  {
+    "name": "GOLF DES VIGIERS",
+    "city": "MONESTIER",
+    "department": "Dordogne",
+    "department_code": "24",
+    "latitude": 44.7729963,
+    "longitude": 0.3266247
+  },
+  {
+    "name": "GOLF DES VOLCANS",
+    "city": "ORCINES",
+    "department": "Puy-de-Dôme",
+    "department_code": "63",
+    "latitude": 45.7853457,
+    "longitude": 3.0113839
+  },
+  {
+    "name": "GOLF DES YVELINES",
+    "city": "LA QUEUE LES YVELINES",
+    "department": "Yvelines",
+    "department_code": "78",
+    "latitude": 48.8065092,
+    "longitude": 1.7646761
+  },
+  {
+    "name": "GOLF DU CHATEAU D'ALLOT",
+    "city": "BOE",
+    "department": "Lot-et-Garonne",
+    "department_code": "47",
+    "latitude": 44.1605556,
+    "longitude": 0.6294444
+  },
+  {
+    "name": "GOLF DU CHATEAU D'AUGERVILLE",
+    "city": "AUGERVILLE LA RIVIERE",
+    "department": "Loiret",
+    "department_code": "45",
+    "latitude": 48.2524429,
+    "longitude": 2.4354094
+  },
+  {
+    "name": "GOLF DU CHATEAU DE CHAILLY",
+    "city": "POUILLY EN AUXOIS",
+    "department": "Côte-d'Or",
+    "department_code": "21",
+    "latitude": 47.2622415,
+    "longitude": 4.5561961
+  },
+  {
+    "name": "GOLF DU CHATEAU DE CHEVERNY",
+    "city": "CHEVERNY",
+    "department": "Loir-et-Cher",
+    "department_code": "41",
+    "latitude": 47.4996989,
+    "longitude": 1.4611064
+  },
+  {
+    "name": "GOLF DU CLAUX-AMIC",
+    "city": "GRASSE",
+    "department": "Alpes-Maritimes",
+    "department_code": "06",
+    "latitude": 43.6589011,
+    "longitude": 6.9239103
+  },
+  {
+    "name": "GOLF DU CLOU",
+    "city": "VILLARS LES DOMBES",
+    "department": "Ain",
+    "department_code": "01",
+    "latitude": 46.0000471,
+    "longitude": 5.0425155
+  },
+  {
+    "name": "GOLF DU COGNAC",
+    "city": "SAINT BRICE",
+    "department": "Seine-et-Marne",
+    "department_code": "77",
+    "latitude": 48.5679822,
+    "longitude": 3.3254721
+  },
+  {
+    "name": "GOLF DU DOMAINE DE SAINT CLAIR",
+    "city": "SAINT CLAIR - ANNONAY",
+    "department": "Ardèche",
+    "department_code": "07",
+    "latitude": 45.2726754,
+    "longitude": 4.6734611
+  },
+  {
+    "name": "GOLF DU GOUVERNEUR",
+    "city": "MONTHIEUX",
+    "department": "Ain",
+    "department_code": "01",
+    "latitude": 45.9567069,
+    "longitude": 4.9410766
+  },
+  {
+    "name": "GOLF DU HAVRE / OCTEVILLE/MER",
+    "city": "OCTEVILLE SUR MER",
+    "department": "Seine-Maritime",
+    "department_code": "76",
+    "latitude": 49.5553201,
+    "longitude": 0.1161519
+  },
+  {
+    "name": "GOLF DU LAC D'ANNECY",
+    "city": "TALLOIRES",
+    "department": "Haute-Savoie",
+    "department_code": "74",
+    "latitude": 45.8395012,
+    "longitude": 6.2149626
+  },
+  {
+    "name": "GOLF DU LUBERON",
+    "city": "PIERREVERT",
+    "department": "Alpes-de-Haute-Provence",
+    "department_code": "04",
+    "latitude": 43.8118768,
+    "longitude": 5.749258
+  },
+  {
+    "name": "GOLF DU PRIEURE",
+    "city": "SAILLY",
+    "department": "Saône-et-Loire",
+    "department_code": "71",
+    "latitude": 46.5355649,
+    "longitude": 4.566338
+  },
+  {
+    "name": "GOLF DU SART",
+    "city": "VILLENEUVE D'ASCQ",
+    "department": "Nord",
+    "department_code": "59",
+    "latitude": 50.6193174,
+    "longitude": 3.1314002
+  },
+  {
+    "name": "GOLF DU SAUTERNAIS",
+    "city": "SAINT PARDON DE CONQUES",
+    "department": "Gironde",
+    "department_code": "33",
+    "latitude": 44.5556647,
+    "longitude": -0.1886653
+  },
+  {
+    "name": "GOLF DU SPORTING CLUB DE VICHY",
+    "city": "BELLERIVE SUR ALLIER",
+    "department": "Allier",
+    "department_code": "03",
+    "latitude": 46.1156244,
+    "longitude": 3.4063997
+  },
+  {
+    "name": "GOLF DU TOUQUET",
+    "city": "LE TOUQUET PARIS PLAGE",
+    "department": "Pas-de-Calais",
+    "department_code": "62",
+    "latitude": 50.5200083,
+    "longitude": 1.5864532
+  },
+  {
+    "name": "GOLF DU VAL DE SORNE",
+    "city": "VERNANTOIS",
+    "department": "Jura",
+    "department_code": "39",
+    "latitude": 46.6278,
+    "longitude": 5.57611
+  },
+  {
+    "name": "GOLF ESTOLOSA",
+    "city": "DREMIL LAFAGE",
+    "department": "Haute-Garonne",
+    "department_code": "31",
+    "latitude": 43.5969276,
+    "longitude": 1.6013136
+  },
+  {
+    "name": "GOLF HOTEL DE MONT GRIFFON",
+    "city": "LUZARCHES",
+    "department": "Val-d'Oise",
+    "department_code": "95",
+    "latitude": 49.1124996,
+    "longitude": 2.4223849
+  },
+  {
+    "name": "GOLF INTERNATIONAL CAP D'AGDE",
+    "city": "CAP D'AGDE",
+    "department": "Hérault",
+    "department_code": "34",
+    "latitude": 43.2845374,
+    "longitude": 3.5117752
+  },
+  {
+    "name": "GOLF INTERNATIONAL D'ARCACHON",
+    "city": "LA TESTE",
+    "department": "Gironde",
+    "department_code": "33",
+    "latitude": 44.6369726,
+    "longitude": -1.1429337
+  },
+  {
+    "name": "GOLF INTERNATIONAL DE LA BAULE",
+    "city": "SAINT ANDRE DES EAUX",
+    "department": "Côtes-d'Armor",
+    "department_code": "22",
+    "latitude": 48.3711691,
+    "longitude": -2.0087518
+  },
+  {
+    "name": "GOLF INTERNATIONAL DE ROISSY",
+    "city": "ROISSY EN FRANCE",
+    "department": "Val-d'Oise",
+    "department_code": "95",
+    "latitude": 49.0032865,
+    "longitude": 2.5176985
+  },
+  {
+    "name": "GOLF LESIGNY CORBUCHES",
+    "city": "LESIGNY",
+    "department": "Seine-et-Marne",
+    "department_code": "77",
+    "latitude": 48.7441196,
+    "longitude": 2.6146976
+  },
+  {
+    "name": "GOLF LYS-CHANTILLY",
+    "city": "LAMORLAYE",
+    "department": "Oise",
+    "department_code": "60",
+    "latitude": 49.1598,
+    "longitude": 2.42438
+  },
+  {
+    "name": "GOLF MONTPELLIER FONTCAUDE",
+    "city": "JUVIGNAC",
+    "department": "Hérault",
+    "department_code": "34",
+    "latitude": 43.6140784,
+    "longitude": 3.8101646
+  },
+  {
+    "name": "GOLF MUNICIPAL D'EVREUX",
+    "city": "EVREUX",
+    "department": "Eure",
+    "department_code": "27",
+    "latitude": 49.0268903,
+    "longitude": 1.1510164
+  },
+  {
+    "name": "GOLF ORLEANS DONNERY",
+    "city": "DONNERY",
+    "department": "Loiret",
+    "department_code": "45",
+    "latitude": 47.9126,
+    "longitude": 2.11219
+  },
+  {
+    "name": "GOLF PARIS VAL D'EUROPE",
+    "city": "MAGNY-LE-HONGRE",
+    "department": "Seine-et-Marne",
+    "department_code": "77",
+    "latitude": 48.8631156,
+    "longitude": 2.8135257
+  },
+  {
+    "name": "GOLF PGA FRANCE DU VAUDREUIL",
+    "city": "LE VAUDREUIL",
+    "department": "Eure",
+    "department_code": "27",
+    "latitude": 49.2551454,
+    "longitude": 1.204956
+  },
+  {
+    "name": "GOLF RESORT DE DIGNE LES BAINS BY ADONIS",
+    "city": "DIGNE LES BAINS",
+    "department": "Alpes-de-Haute-Provence",
+    "department_code": "04",
+    "latitude": 44.0917585,
+    "longitude": 6.2346362
+  },
+  {
+    "name": "GRAND SAINT-EMILIONNAIS GOLF CLUB",
+    "city": "GARDEGAN ET TOURTIRAC",
+    "department": "Gironde",
+    "department_code": "33",
+    "latitude": 44.9010732,
+    "longitude": -0.0193693
+  },
+  {
+    "name": "LE GOLF DU DOMAINE DE MANVILLE",
+    "city": "LES BAUX DE PROVENCE",
+    "department": "Bouches-du-Rhône",
+    "department_code": "13",
+    "latitude": 43.7436458,
+    "longitude": 4.7950342
+  },
+  {
+    "name": "LE MANS GOLF CLUB SARGE",
+    "city": "SARGE LES LE MANS",
+    "department": "Sarthe",
+    "department_code": "72",
+    "latitude": 48.0339235,
+    "longitude": 0.2402009
+  },
+  {
+    "name": "LES AISSES GOLF",
+    "city": "LA FERTE SAINT-AUBIN",
+    "department": "Loiret",
+    "department_code": "45",
+    "latitude": 47.7169399,
+    "longitude": 1.9442053
+  },
+  {
+    "name": "LES ORMES GOLF & RESORT",
+    "city": "DOL DE BRETAGNE",
+    "department": "Ille-et-Vilaine",
+    "department_code": "35",
+    "latitude": 48.5498295,
+    "longitude": -1.754257
+  },
+  {
+    "name": "LIBERTY COUNTRY CLUB",
+    "city": "THIVERVAL GRIGNON",
+    "department": "Yvelines",
+    "department_code": "78",
+    "latitude": 48.8418686,
+    "longitude": 1.9342972
+  },
+  {
+    "name": "LYON SALVAGNY GOLF CLUB",
+    "city": "LA TOUR DE SALVAGNY",
+    "department": "Métropole de Lyon",
+    "department_code": "69",
+    "latitude": 45.8129372,
+    "longitude": 4.7163893
+  },
+  {
+    "name": "MERIGNIES GOLF COUNTRY CLUB",
+    "city": "MERIGNIES",
+    "department": "Nord",
+    "department_code": "59",
+    "latitude": 50.506087,
+    "longitude": 3.1103335
+  },
+  {
+    "name": "MURTOLI GOLF LINKS",
+    "city": "SARTENE",
+    "department": "Corse-du-Sud",
+    "department_code": "2A",
+    "latitude": 41.6208848,
+    "longitude": 8.9721882
+  },
+  {
+    "name": "PAU GOLF CLUB 1856",
+    "city": "BILLERE",
+    "department": "Pyrénées-Atlantiques",
+    "department_code": "64",
+    "latitude": 43.3030044,
+    "longitude": -0.3905556
+  },
+  {
+    "name": "RACING CLUB DE FRANCE",
+    "city": "VERSAILLES",
+    "department": "Yvelines",
+    "department_code": "78",
+    "latitude": 48.8035403,
+    "longitude": 2.1266886
+  },
+  {
+    "name": "SOUILLAC GOLF COUNTRY CLUB",
+    "city": "LACHAPELLE AUZAC",
+    "department": "Lot",
+    "department_code": "46",
+    "latitude": 44.9381392,
+    "longitude": 1.4805773
+  },
+  {
+    "name": "UGOLF ALBI",
+    "city": "ALBI",
+    "department": "Tarn",
+    "department_code": "81",
+    "latitude": 43.9277552,
+    "longitude": 2.147899
+  },
+  {
+    "name": "UGOLF DES TEMPLIERS",
+    "city": "IVRY LE TEMPLE",
+    "department": "Oise",
+    "department_code": "60",
+    "latitude": 49.2296066,
+    "longitude": 2.030354
+  },
+  {
+    "name": "UGOLF DU COUDRAY MONTCEAUX",
+    "city": "LE COUDRAY MONTCEAUX",
+    "department": "Essonne",
+    "department_code": "91",
+    "latitude": 48.5653177,
+    "longitude": 2.4855792
+  },
+  {
+    "name": "UGOLF GADANCOURT",
+    "city": "GADANCOURT",
+    "department": "Val-d'Oise",
+    "department_code": "95",
+    "latitude": 49.100771,
+    "longitude": 1.862133
+  },
+  {
+    "name": "UGOLF GRAND NANCY PULNOY",
+    "city": "PULNOY",
+    "department": "Meurthe-et-Moselle",
+    "department_code": "54",
+    "latitude": 48.7004346,
+    "longitude": 6.2567749
+  },
+  {
+    "name": "UGOLF LA RAMEE",
+    "city": "TOURNEFEUILLE",
+    "department": "Haute-Garonne",
+    "department_code": "31",
+    "latitude": 43.5832062,
+    "longitude": 1.3460025
+  },
+  {
+    "name": "UGOLF LACANAU ARDILOUSE",
+    "city": "LACANAU",
+    "department": "Gironde",
+    "department_code": "33",
+    "latitude": 44.9776088,
+    "longitude": -1.0784851
+  },
+  {
+    "name": "UGOLF LOU VERDAI",
+    "city": "ROQUES",
+    "department": "Haute-Garonne",
+    "department_code": "31",
+    "latitude": 43.5109039,
+    "longitude": 1.3755068
+  },
+  {
+    "name": "UGOLF MENNECY CHEVANNES",
+    "city": "CHEVANNES",
+    "department": "Côte-d'Or",
+    "department_code": "21",
+    "latitude": 47.1585891,
+    "longitude": 4.8480674
+  },
+  {
+    "name": "UGOLF NANCY AINGERAY",
+    "city": "AINGERAY",
+    "department": "Meurthe-et-Moselle",
+    "department_code": "54",
+    "latitude": 48.7396792,
+    "longitude": 6.0025048
+  },
+  {
+    "name": "UGOLF TOULOUSE SEILH",
+    "city": "SEILH",
+    "department": "Haute-Garonne",
+    "department_code": "31",
+    "latitude": 43.694573,
+    "longitude": 1.3534881
+  },
+  {
+    "name": "UGOLF TOULOUSE TEOULA",
+    "city": "PLAISANCE DU TOUCH",
+    "department": "Haute-Garonne",
+    "department_code": "31",
+    "latitude": 43.5650991,
+    "longitude": 1.2956832
+  },
+  {
+    "name": "UGOLF VILLENAVE D'ORNON",
+    "city": "VILLENAVE-D'ORNON",
+    "department": "Gironde",
+    "department_code": "33",
+    "latitude": 44.7737872,
+    "longitude": -0.5595029
+  },
+  {
+    "name": "WIMEREUX GOLF CLUB",
+    "city": "WIMEREUX",
+    "department": "Pas-de-Calais",
+    "department_code": "62",
+    "latitude": 50.7696528,
+    "longitude": 1.6119368
+  }
+]

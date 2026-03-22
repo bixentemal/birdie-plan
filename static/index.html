@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birdie Plan</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <script src="https://cdn.plot.ly/plotly-3.0.1.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header-brand">
+            <svg width="28" height="28" viewBox="0 0 64 64">
+                <line x1="20" y1="8" x2="20" y2="52" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+                <path d="M20 8 Q30 12 20 18 L38 14 Q28 10 38 6 Z" fill="#22c55e"/>
+                <ellipse cx="32" cy="54" rx="26" ry="8" fill="rgba(134,239,172,0.4)"/>
+                <circle cx="40" cy="46" r="5" fill="white" stroke="rgba(255,255,255,0.5)" stroke-width="1"/>
+            </svg>
+            <h1>Birdie Plan</h1>
+        </div>
+        <nav>
+            <button class="tab active" data-tab="timeline">Timeline</button>
+            <button class="tab" data-tab="map">Map</button>
+            <button class="tab" data-tab="competitions">Competitions</button>
+            <button class="tab" data-tab="settings">Settings</button>
+        </nav>
+        <label class="theme-switch" title="Toggle dark mode">
+            <input type="checkbox" id="theme-toggle">
+            <span class="theme-slider"></span>
+        </label>
+    </header>
+
+    <main>
+        <!-- Timeline Tab -->
+        <section id="tab-timeline" class="tab-content active">
+            <div id="plotly-chart"></div>
+        </section>
+
+        <!-- Map Tab -->
+        <section id="tab-map" class="tab-content">
+            <div class="map-toolbar">
+                <div class="filters">
+                    <select id="map-filter-month">
+                        <option value="">All months</option>
+                    </select>
+                    <select id="map-filter-source">
+                        <option value="">All sources</option>
+                        <option value="club">Club</option>
+                        <option value="grand_prix">Grand Prix</option>
+                    </select>
+                    <select id="map-filter-category">
+                        <option value="">All distances</option>
+                        <option value="local">Local</option>
+                        <option value="regional">Regional</option>
+                        <option value="national">National</option>
+                    </select>
+                    <label class="checkbox-label map-cb">
+                        <input type="checkbox" id="map-selected-only"> Selected only
+                    </label>
+                    <label class="checkbox-label map-cb">
+                        <input type="checkbox" id="map-scroll-zoom" checked> Scroll zoom
+                    </label>
+                </div>
+                <div class="map-legend">
+                    <span class="legend-item"><span class="legend-dot legend-club-sel"></span> Club (selected)</span>
+                    <span class="legend-item"><span class="legend-dot legend-club"></span> Club</span>
+                    <span class="legend-item"><span class="legend-dot legend-gp-sel"></span> GP (selected)</span>
+                    <span class="legend-item"><span class="legend-dot legend-gp"></span> GP</span>
+                    <span class="legend-item"><span class="legend-dot legend-home"></span> Home</span>
+                </div>
+                <span class="map-hint">Drag to pan · Shift+drag to zoom area · Double-click to reset</span>
+            </div>
+            <div id="map-container"></div>
+            <div class="map-summary" id="map-summary"></div>
+        </section>
+
+        <!-- Competitions Tab -->
+        <section id="tab-competitions" class="tab-content">
+            <div class="table-toolbar">
+                <div class="filters">
+                    <select id="filter-source">
+                        <option value="">All sources</option>
+                        <option value="club">Club</option>
+                        <option value="grand_prix">Grand Prix</option>
+                    </select>
+                    <select id="filter-category">
+                        <option value="">All distances</option>
+                        <option value="local">Local</option>
+                        <option value="regional">Regional</option>
+                        <option value="national">National</option>
+                    </select>
+                    <select id="filter-month">
+                        <option value="">All months</option>
+                    </select>
+                </div>
+                <button class="btn btn-primary" id="btn-add">+ Add Competition</button>
+            </div>
+            <div class="table-wrapper">
+                <table id="comp-table">
+                    <thead>
+                        <tr>
+                            <th>Sel.</th>
+                            <th data-sort="date_start">Date</th>
+                            <th data-sort="event_name">Event</th>
+                            <th data-sort="golf_course">Golf Course</th>
+                            <th data-sort="city">City</th>
+                            <th data-sort="department">Dept.</th>
+                            <th data-sort="source">Source</th>
+                            <th data-sort="distance_category">Dist.</th>
+                            <th data-sort="driving_minutes">Drive</th>
+                            <th>Meals</th>
+                            <th>Hotel</th>
+                            <th>EV</th>
+                            <th>Tolls</th>
+                            <th>Entry</th>
+                            <th data-sort="cost_total">Total</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Settings Tab -->
+        <section id="tab-settings" class="tab-content">
+            <div class="settings-grid">
+                <div class="settings-card">
+                    <h3>Cost Model</h3>
+                    <p class="settings-desc">Global parameters used to compute competition costs. Changes apply to all non-overridden competitions.</p>
+                    <div class="settings-fields">
+                        <div class="field-group">
+                            <h4>Meals</h4>
+                            <label>Local (EUR/day)
+                                <input type="number" id="cm-meal-local" step="1" min="0">
+                            </label>
+                            <label>Away (EUR/day)
+                                <input type="number" id="cm-meal-away" step="1" min="0">
+                            </label>
+                        </div>
+                        <div class="field-group">
+                            <h4>Accommodation</h4>
+                            <label>Hotel (EUR/night)
+                                <input type="number" id="cm-hotel" step="1" min="0">
+                            </label>
+                        </div>
+                        <div class="field-group">
+                            <h4>Transport</h4>
+                            <label>EV cost (EUR/km)
+                                <input type="number" id="cm-ev" step="0.005" min="0">
+                            </label>
+                            <label>Toll rate (EUR/km)
+                                <input type="number" id="cm-toll" step="0.01" min="0">
+                            </label>
+                            <label>Toll % autoroute
+                                <input type="number" id="cm-toll-ratio" step="0.05" min="0" max="1">
+                            </label>
+                        </div>
+                        <div class="field-group">
+                            <h4>Entry Fees</h4>
+                            <label>Club (EUR)
+                                <input type="number" id="cm-entry-club" step="1" min="0">
+                            </label>
+                            <label>Grand Prix (EUR)
+                                <input type="number" id="cm-entry-gp" step="1" min="0">
+                            </label>
+                        </div>
+                        <div class="field-group">
+                            <h4>Schedule</h4>
+                            <label class="checkbox-label">
+                                <input type="checkbox" id="cm-prep-day"> GP prep day (+1 day for Grand Prix)
+                            </label>
+                        </div>
+                    </div>
+                    <div class="settings-actions">
+                        <button id="cm-save" class="btn btn-primary">Apply</button>
+                        <span id="cm-status"></span>
+                    </div>
+                </div>
+
+                <div class="settings-card settings-card-placeholder">
+                    <h3>Selection Defaults</h3>
+                    <p class="settings-desc">Configure automatic competition selection rules.</p>
+                    <div class="settings-fields">
+                        <div class="field-group">
+                            <label>Club picks per month
+                                <input type="number" id="sp-club-per-month" value="2" min="0" max="10" disabled>
+                            </label>
+                            <label>GP months
+                                <input type="text" id="sp-gp-months" value="Jun, Jul, Sep, Oct, Nov" disabled>
+                            </label>
+                        </div>
+                    </div>
+                    <p class="coming-soon">Coming soon</p>
+                </div>
+
+                <div class="settings-card settings-card-placeholder">
+                    <h3>Player Profile</h3>
+                    <p class="settings-desc">Golfer information and targets.</p>
+                    <div class="settings-fields">
+                        <div class="field-group">
+                            <label>Current index
+                                <input type="number" id="pp-index" value="17" step="0.1" disabled>
+                            </label>
+                            <label>Target index
+                                <input type="number" id="pp-target" value="10" step="0.1" disabled>
+                            </label>
+                            <label>Age category
+                                <input type="text" id="pp-age" value="Cadets 2 (U18)" disabled>
+                            </label>
+                            <label>Home city
+                                <input type="text" id="pp-city" value="Fonsorbes (31470)" disabled>
+                            </label>
+                        </div>
+                    </div>
+                    <p class="coming-soon">Coming soon</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Edit/Add Modal -->
+    <div class="modal-overlay" id="modal-overlay">
+        <div class="modal">
+            <h3 id="modal-title">Edit Competition</h3>
+            <form id="comp-form">
+                <input type="hidden" id="f-id">
+                <div class="form-grid">
+                    <label>Start date <input type="date" id="f-date-start" required></label>
+                    <label>End date <input type="date" id="f-date-end" required></label>
+                    <label>Event name <input type="text" id="f-name" required></label>
+                    <div class="autocomplete-field">
+                        <span class="autocomplete-label">Golf course</span>
+                        <div class="autocomplete-wrap">
+                            <input type="text" id="f-golf" autocomplete="off" placeholder="Type to search...">
+                            <div class="autocomplete-list" id="f-golf-list"></div>
+                        </div>
+                    </div>
+                    <label>City <input type="text" id="f-city" required></label>
+                    <label>Source
+                        <select id="f-source">
+                            <option value="club">Club</option>
+                            <option value="grand_prix">Grand Prix</option>
+                        </select>
+                    </label>
+                    <label>Distance category
+                        <select id="f-dist-cat">
+                            <option value="local">Local</option>
+                            <option value="regional">Regional</option>
+                            <option value="national">National</option>
+                        </select>
+                    </label>
+                    <label>Driving (min) <input type="number" id="f-driving" min="0"></label>
+                    <label>Distance (km) <input type="number" id="f-distance" min="0"></label>
+                </div>
+                <h4>Cost Override <span class="hint">(leave empty for auto-computed)</span></h4>
+                <div class="form-grid">
+                    <label>Meals <input type="number" id="f-ov-meals" step="0.01" placeholder="auto"></label>
+                    <label>Hotel <input type="number" id="f-ov-hotel" step="0.01" placeholder="auto"></label>
+                    <label>EV <input type="number" id="f-ov-ev" step="0.01" placeholder="auto"></label>
+                    <label>Tolls <input type="number" id="f-ov-tolls" step="0.01" placeholder="auto"></label>
+                    <label>Entry <input type="number" id="f-ov-entry" step="0.01" placeholder="auto"></label>
+                </div>
+                <div class="modal-actions">
+                    <button type="button" class="btn" id="modal-cancel">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="/app.js"></script>
+    <script src="/timeline.js"></script>
+    <script src="/map.js"></script>
+    <script src="/competitions.js"></script>
+    <script src="/settings.js"></script>
+</body>
+</html>

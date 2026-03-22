@@ -1,0 +1,11 @@
+{
+  "meal_local_per_day": 10,
+  "meal_away_per_day": 54,
+  "hotel_per_night": 80,
+  "ev_cost_per_km": 0.04,
+  "toll_rate_per_km": 0.08,
+  "toll_autoroute_ratio": 0.7,
+  "gp_prep_day": true,
+  "entry_fee_club": 10,
+  "entry_fee_gp": 50
+}

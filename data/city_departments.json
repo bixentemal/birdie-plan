@@ -1,0 +1,882 @@
+{
+  "ABLEIGES": {
+    "department": "Val-d'Oise",
+    "department_code": "95"
+  },
+  "AINGERAY": {
+    "department": "Meurthe-et-Moselle",
+    "department_code": "54"
+  },
+  "AIX EN PROVENCE": {
+    "department": "Bouches-du-Rhône",
+    "department_code": "13"
+  },
+  "ALBI": {
+    "department": "Tarn",
+    "department_code": "81"
+  },
+  "ALBON": {
+    "department": "Drôme",
+    "department_code": "26"
+  },
+  "ANGLET": {
+    "department": "Pyrénées-Atlantiques",
+    "department_code": "64"
+  },
+  "ANGOULEME": {
+    "department": "Charente",
+    "department_code": "16"
+  },
+  "APREMONT": {
+    "department": "Oise",
+    "department_code": "60"
+  },
+  "ARDON": {
+    "department": "Loiret",
+    "department_code": "45"
+  },
+  "ARTIGUELOUVE": {
+    "department": "Pyrénées-Atlantiques",
+    "department_code": "64"
+  },
+  "AUGERVILLE LA RIVIERE": {
+    "department": "Loiret",
+    "department_code": "45"
+  },
+  "AURAY": {
+    "department": "Morbihan",
+    "department_code": "56"
+  },
+  "BADEN": {
+    "department": "Morbihan",
+    "department_code": "56"
+  },
+  "BAILLARGUES": {
+    "department": "Hérault",
+    "department_code": "34"
+  },
+  "BALLAN MIRE": {
+    "department": "Indre-et-Loire",
+    "department_code": "37"
+  },
+  "BARBASTE": {
+    "department": "Lot-et-Garonne",
+    "department_code": "47"
+  },
+  "BASSE RENTGEN": {
+    "department": "Moselle",
+    "department_code": "57"
+  },
+  "BAUGE-EN-ANJOU": {
+    "department": "Maine-et-Loire",
+    "department_code": "49"
+  },
+  "BEAUMONT SAINT-CYR": {
+    "department": "Vienne",
+    "department_code": "86"
+  },
+  "BELLEME": {
+    "department": "Orne",
+    "department_code": "61"
+  },
+  "BELLERIVE SUR ALLIER": {
+    "department": "Allier",
+    "department_code": "03"
+  },
+  "BENODET": {
+    "department": "Finistère",
+    "department_code": "29"
+  },
+  "BEZIERS": {
+    "department": "Hérault",
+    "department_code": "34"
+  },
+  "BIARRITZ": {
+    "department": "Pyrénées-Atlantiques",
+    "department_code": "64"
+  },
+  "BIEVILLE BEUVILLE": {
+    "department": "Calvados",
+    "department_code": "14"
+  },
+  "BILLERE": {
+    "department": "Pyrénées-Atlantiques",
+    "department_code": "64"
+  },
+  "BOE": {
+    "department": "Lot-et-Garonne",
+    "department_code": "47"
+  },
+  "BONDOUFLE": {
+    "department": "Essonne",
+    "department_code": "91"
+  },
+  "BONDUES": {
+    "department": "Nord",
+    "department_code": "59"
+  },
+  "BONIFACIO": {
+    "department": "Corse-du-Sud",
+    "department_code": "2A"
+  },
+  "BORDEAUX": {
+    "department": "Gironde",
+    "department_code": "33"
+  },
+  "BOSSEY": {
+    "department": "Haute-Savoie",
+    "department_code": "74"
+  },
+  "BOURG LES VALENCE": {
+    "department": "Drôme",
+    "department_code": "26"
+  },
+  "BOURGES": {
+    "department": "Cher",
+    "department_code": "18"
+  },
+  "BOUTIGNY": {
+    "department": "Seine-et-Marne",
+    "department_code": "77"
+  },
+  "BREVILLE SUR MER": {
+    "department": "Manche",
+    "department_code": "50"
+  },
+  "BRIGNOLES": {
+    "department": "Var",
+    "department_code": "83"
+  },
+  "BRUZ": {
+    "department": "Ille-et-Vilaine",
+    "department_code": "35"
+  },
+  "BUSSY SAINT GEORGES": {
+    "department": "Seine-et-Marne",
+    "department_code": "77"
+  },
+  "BUZET-SUR-TARN": {
+    "department": "Haute-Garonne",
+    "department_code": "31"
+  },
+  "CAP D'AGDE": {
+    "department": "Hérault",
+    "department_code": "34"
+  },
+  "CARCASSONNE": {
+    "department": "Aude",
+    "department_code": "11"
+  },
+  "CASTELJALOUX": {
+    "department": "Lot-et-Garonne",
+    "department_code": "47"
+  },
+  "CASTELNAUD DE GRATECAMBE": {
+    "department": "Lot-et-Garonne",
+    "department_code": "47"
+  },
+  "CASTRES": {
+    "department": "Tarn",
+    "department_code": "81"
+  },
+  "CELY EN BIERE": {
+    "department": "Seine-et-Marne",
+    "department_code": "77"
+  },
+  "CERNY EN LAONNOIS": {
+    "department": "Aisne",
+    "department_code": "02"
+  },
+  "CHAOURCE": {
+    "department": "Aube",
+    "department_code": "10"
+  },
+  "CHARPEY": {
+    "department": "Drôme",
+    "department_code": "26"
+  },
+  "CHASSIEU": {
+    "department": "Métropole de Lyon",
+    "department_code": "69"
+  },
+  "CHAUMONT EN VEXIN": {
+    "department": "Oise",
+    "department_code": "60"
+  },
+  "CHAUSSY": {
+    "department": "Loiret",
+    "department_code": "45"
+  },
+  "CHERISEY": {
+    "department": "Moselle",
+    "department_code": "57"
+  },
+  "CHEVANNES": {
+    "department": "Côte-d'Or",
+    "department_code": "21"
+  },
+  "CHEVERNY": {
+    "department": "Loir-et-Cher",
+    "department_code": "41"
+  },
+  "CHOLET": {
+    "department": "Maine-et-Loire",
+    "department_code": "49"
+  },
+  "CIBOURE": {
+    "department": "Pyrénées-Atlantiques",
+    "department_code": "64"
+  },
+  "CONDEISSIAT": {
+    "department": "Ain",
+    "department_code": "01"
+  },
+  "COUDEKERQUE": {
+    "department": "Nord",
+    "department_code": "59"
+  },
+  "COURSON MONTELOUP": {
+    "department": "Essonne",
+    "department_code": "91"
+  },
+  "COURTISOLS": {
+    "department": "Marne",
+    "department_code": "51"
+  },
+  "CRAINTILLEUX": {
+    "department": "Loire",
+    "department_code": "42"
+  },
+  "CRECY LA CHAPELLE": {
+    "department": "Seine-et-Marne",
+    "department_code": "77"
+  },
+  "DAMPIERRE SUR LE DOUBS": {
+    "department": "Doubs",
+    "department_code": "25"
+  },
+  "DIGNE LES BAINS": {
+    "department": "Alpes-de-Haute-Provence",
+    "department_code": "04"
+  },
+  "DOL DE BRETAGNE": {
+    "department": "Ille-et-Vilaine",
+    "department_code": "35"
+  },
+  "DOMONT": {
+    "department": "Val-d'Oise",
+    "department_code": "95"
+  },
+  "DONNERY": {
+    "department": "Loiret",
+    "department_code": "45"
+  },
+  "DREMIL LAFAGE": {
+    "department": "Haute-Garonne",
+    "department_code": "31"
+  },
+  "EAUZE": {
+    "department": "Gers",
+    "department_code": "32"
+  },
+  "ESPALAIS": {
+    "department": "Tarn-et-Garonne",
+    "department_code": "82"
+  },
+  "ETIOLLES": {
+    "department": "Essonne",
+    "department_code": "91"
+  },
+  "EVREUX": {
+    "department": "Eure",
+    "department_code": "27"
+  },
+  "FONTAINEBLEAU": {
+    "department": "Seine-et-Marne",
+    "department_code": "77"
+  },
+  "FONTCOUVERTE": {
+    "department": "Charente-Maritime",
+    "department_code": "17"
+  },
+  "FORT MAHON PLAGE": {
+    "department": "Somme",
+    "department_code": "80"
+  },
+  "FOURQUEUX": {
+    "department": "Yvelines",
+    "department_code": "78"
+  },
+  "FUVEAU": {
+    "department": "Bouches-du-Rhône",
+    "department_code": "13"
+  },
+  "GADANCOURT": {
+    "department": "Val-d'Oise",
+    "department_code": "95"
+  },
+  "GAP": {
+    "department": "Hautes-Alpes",
+    "department_code": "05"
+  },
+  "GARCHES": {
+    "department": "Hauts-de-Seine",
+    "department_code": "92"
+  },
+  "GARDEGAN ET TOURTIRAC": {
+    "department": "Gironde",
+    "department_code": "33"
+  },
+  "GRASSE": {
+    "department": "Alpes-Maritimes",
+    "department_code": "06"
+  },
+  "GUERANDE": {
+    "department": "Loire-Atlantique",
+    "department_code": "44"
+  },
+  "GUEUX": {
+    "department": "Marne",
+    "department_code": "51"
+  },
+  "GUJAN MESTRAS": {
+    "department": "Gironde",
+    "department_code": "33"
+  },
+  "HOSSEGOR": {
+    "department": "Pyrénées-Orientales",
+    "department_code": "66"
+  },
+  "ILLKIRCH GRAFFENSTADEN": {
+    "department": "Bas-Rhin",
+    "department_code": "67"
+  },
+  "IVRY LE TEMPLE": {
+    "department": "Oise",
+    "department_code": "60"
+  },
+  "JANVRY": {
+    "department": "Marne",
+    "department_code": "51"
+  },
+  "JUVIGNAC": {
+    "department": "Hérault",
+    "department_code": "34"
+  },
+  "L'ISLE ADAM": {
+    "department": "Val-d'Oise",
+    "department_code": "95"
+  },
+  "LA BASTIDE DE SEROU": {
+    "department": "Ariège",
+    "department_code": "09"
+  },
+  "LA FERTE SAINT-AUBIN": {
+    "department": "Loiret",
+    "department_code": "45"
+  },
+  "LA GARDE": {
+    "department": "Var",
+    "department_code": "83"
+  },
+  "LA LONDE LES MAURES": {
+    "department": "Var",
+    "department_code": "83"
+  },
+  "LA QUEUE LES YVELINES": {
+    "department": "Yvelines",
+    "department_code": "78"
+  },
+  "LA REUNION": {
+    "department": "",
+    "department_code": ""
+  },
+  "LA TESTE": {
+    "department": "Gironde",
+    "department_code": "33"
+  },
+  "LA TOUR DE SALVAGNY": {
+    "department": "Métropole de Lyon",
+    "department_code": "69"
+  },
+  "LA VARENNE": {
+    "department": "Maine-et-Loire",
+    "department_code": "49"
+  },
+  "LA WANTZENAU": {
+    "department": "Bas-Rhin",
+    "department_code": "67"
+  },
+  "LACANAU": {
+    "department": "Gironde",
+    "department_code": "33"
+  },
+  "LACHAPELLE AUZAC": {
+    "department": "Lot",
+    "department_code": "46"
+  },
+  "LALOUBERE": {
+    "department": "Hautes-Pyrénées",
+    "department_code": "65"
+  },
+  "LAMORLAYE": {
+    "department": "Oise",
+    "department_code": "60"
+  },
+  "LE CASTELET": {
+    "department": "Calvados",
+    "department_code": "14"
+  },
+  "LE COUDRAY MONTCEAUX": {
+    "department": "Essonne",
+    "department_code": "91"
+  },
+  "LE PIAN MEDOC": {
+    "department": "Gironde",
+    "department_code": "33"
+  },
+  "LE TOUQUET PARIS PLAGE": {
+    "department": "Pas-de-Calais",
+    "department_code": "62"
+  },
+  "LE TRONCHET": {
+    "department": "Ille-et-Vilaine",
+    "department_code": "35"
+  },
+  "LE VAUDREUIL": {
+    "department": "Eure",
+    "department_code": "27"
+  },
+  "LES BAUX DE PROVENCE": {
+    "department": "Bouches-du-Rhône",
+    "department_code": "13"
+  },
+  "LES MILLES": {
+    "department": "Bouches-du-Rhône",
+    "department_code": "13"
+  },
+  "LES PRAZ DE CHAMONIX": {
+    "department": "Haute-Savoie",
+    "department_code": "74"
+  },
+  "LESIGNY": {
+    "department": "Seine-et-Marne",
+    "department_code": "77"
+  },
+  "LIMOGES": {
+    "department": "Haute-Vienne",
+    "department_code": "87"
+  },
+  "LUZARCHES": {
+    "department": "Val-d'Oise",
+    "department_code": "95"
+  },
+  "MAGNY-LE-HONGRE": {
+    "department": "Seine-et-Marne",
+    "department_code": "77"
+  },
+  "MALAIN": {
+    "department": "Côte-d'Or",
+    "department_code": "21"
+  },
+  "MARCILLY EN VILLETTE": {
+    "department": "Loiret",
+    "department_code": "45"
+  },
+  "MARLY": {
+    "department": "Nord",
+    "department_code": "59"
+  },
+  "MARSAC SUR L'ISLE": {
+    "department": "Dordogne",
+    "department_code": "24"
+  },
+  "MARSILLY": {
+    "department": "Charente-Maritime",
+    "department_code": "17"
+  },
+  "MAZIERES EN GATINE": {
+    "department": "Deux-Sèvres",
+    "department_code": "79"
+  },
+  "MERIGNIES": {
+    "department": "Nord",
+    "department_code": "59"
+  },
+  "MIGNALOUX BEAUVOIR": {
+    "department": "Vienne",
+    "department_code": "86"
+  },
+  "MIONNAY": {
+    "department": "Ain",
+    "department_code": "01"
+  },
+  "MOISSON-MOUSSEAUX": {
+    "department": "Yvelines",
+    "department_code": "78"
+  },
+  "MOLIETS ET MAA": {
+    "department": "Landes",
+    "department_code": "40"
+  },
+  "MONESTIER": {
+    "department": "Dordogne",
+    "department_code": "24"
+  },
+  "MONT SAINT AIGNAN": {
+    "department": "Seine-Maritime",
+    "department_code": "76"
+  },
+  "MONTAUBAN": {
+    "department": "Tarn-et-Garonne",
+    "department_code": "82"
+  },
+  "MONTCHANIN": {
+    "department": "Saône-et-Loire",
+    "department_code": "71"
+  },
+  "MONTHIEUX": {
+    "department": "Ain",
+    "department_code": "01"
+  },
+  "MORTEMART": {
+    "department": "Haute-Vienne",
+    "department_code": "87"
+  },
+  "MOUGINS": {
+    "department": "Alpes-Maritimes",
+    "department_code": "06"
+  },
+  "MULSANNE": {
+    "department": "Sarthe",
+    "department_code": "72"
+  },
+  "NESMY": {
+    "department": "Vendée",
+    "department_code": "85"
+  },
+  "NEUFCHATEL HARDELOT": {
+    "department": "Pas-de-Calais",
+    "department_code": "62"
+  },
+  "NIMES": {
+    "department": "Gard",
+    "department_code": "30"
+  },
+  "NIORT": {
+    "department": "Deux-Sèvres",
+    "department_code": "79"
+  },
+  "NORGES LA VILLE": {
+    "department": "Côte-d'Or",
+    "department_code": "21"
+  },
+  "OCTEVILLE SUR MER": {
+    "department": "Seine-Maritime",
+    "department_code": "76"
+  },
+  "ORCINES": {
+    "department": "Puy-de-Dôme",
+    "department_code": "63"
+  },
+  "ORMESSON SUR MARNE": {
+    "department": "Val-de-Marne",
+    "department_code": "94"
+  },
+  "OZOIR LA FERRIERE": {
+    "department": "Seine-et-Marne",
+    "department_code": "77"
+  },
+  "PANAZOL": {
+    "department": "Haute-Vienne",
+    "department_code": "87"
+  },
+  "PESSAC": {
+    "department": "Gironde",
+    "department_code": "33"
+  },
+  "PIERREVERT": {
+    "department": "Alpes-de-Haute-Provence",
+    "department_code": "04"
+  },
+  "PLAISANCE DU TOUCH": {
+    "department": "Haute-Garonne",
+    "department_code": "31"
+  },
+  "PLAN DE GRASSE": {
+    "department": "Alpes-Maritimes",
+    "department_code": "06"
+  },
+  "PLEUMEUR BODOU": {
+    "department": "Côtes-d'Armor",
+    "department_code": "22"
+  },
+  "PLOEMEUR": {
+    "department": "Morbihan",
+    "department_code": "56"
+  },
+  "POISSY": {
+    "department": "Yvelines",
+    "department_code": "78"
+  },
+  "PONT DE L'ARN": {
+    "department": "Tarn",
+    "department_code": "81"
+  },
+  "PORT EN BESSIN HUPPAIN": {
+    "department": "Calvados",
+    "department_code": "14"
+  },
+  "POSES": {
+    "department": "Eure",
+    "department_code": "27"
+  },
+  "POUILLY EN AUXOIS": {
+    "department": "Côte-d'Or",
+    "department_code": "21"
+  },
+  "PREUX AU SART": {
+    "department": "Nord",
+    "department_code": "59"
+  },
+  "PULNOY": {
+    "department": "Meurthe-et-Moselle",
+    "department_code": "54"
+  },
+  "QUERRIEU": {
+    "department": "Somme",
+    "department_code": "80"
+  },
+  "QUETIGNY": {
+    "department": "Côte-d'Or",
+    "department_code": "21"
+  },
+  "QUEVEN": {
+    "department": "Morbihan",
+    "department_code": "56"
+  },
+  "RARAY": {
+    "department": "Oise",
+    "department_code": "60"
+  },
+  "ROCHEFORT EN YVELINES": {
+    "department": "Yvelines",
+    "department_code": "78"
+  },
+  "ROISSY EN FRANCE": {
+    "department": "Val-d'Oise",
+    "department_code": "95"
+  },
+  "RONCHIN": {
+    "department": "Nord",
+    "department_code": "59"
+  },
+  "ROQUEBRUNE SUR ARGENS": {
+    "department": "Var",
+    "department_code": "83"
+  },
+  "ROQUES": {
+    "department": "Haute-Garonne",
+    "department_code": "31"
+  },
+  "ROUGEMONT LE CHATEAU": {
+    "department": "Territoire-de-Belfort",
+    "department_code": "90"
+  },
+  "SABLE SUR SARTHE": {
+    "department": "Sarthe",
+    "department_code": "72"
+  },
+  "SAILLY": {
+    "department": "Saône-et-Loire",
+    "department_code": "71"
+  },
+  "SAINT ANDRE DES EAUX": {
+    "department": "Côtes-d'Armor",
+    "department_code": "22"
+  },
+  "SAINT ANTOINE DU ROCHER": {
+    "department": "Indre-et-Loire",
+    "department_code": "37"
+  },
+  "SAINT AVIT": {
+    "department": "Landes",
+    "department_code": "40"
+  },
+  "SAINT BRIAC SUR MER": {
+    "department": "Ille-et-Vilaine",
+    "department_code": "35"
+  },
+  "SAINT BRICE": {
+    "department": "Seine-et-Marne",
+    "department_code": "77"
+  },
+  "SAINT CAST LE GUILDO": {
+    "department": "Côtes-d'Armor",
+    "department_code": "22"
+  },
+  "SAINT CLAIR - ANNONAY": {
+    "department": "Ardèche",
+    "department_code": "07"
+  },
+  "SAINT GERMAIN EN LAYE": {
+    "department": "Yvelines",
+    "department_code": "78"
+  },
+  "SAINT GERMAIN LES CORBEIL": {
+    "department": "Essonne",
+    "department_code": "91"
+  },
+  "SAINT JACQUES DE LA LANDE": {
+    "department": "Ille-et-Vilaine",
+    "department_code": "35"
+  },
+  "SAINT JULIEN SUR CALONNE": {
+    "department": "Calvados",
+    "department_code": "14"
+  },
+  "SAINT NOM LA BRETECHE": {
+    "department": "Yvelines",
+    "department_code": "78"
+  },
+  "SAINT PALAIS SUR MER": {
+    "department": "Charente-Maritime",
+    "department_code": "17"
+  },
+  "SAINT PARDON DE CONQUES": {
+    "department": "Gironde",
+    "department_code": "33"
+  },
+  "SAINT QUENTIN SUR ISERE": {
+    "department": "Isère",
+    "department_code": "38"
+  },
+  "SAINT RAPHAEL": {
+    "department": "Var",
+    "department_code": "83"
+  },
+  "SAINT-LAURENT DE LA PREE": {
+    "department": "Charente-Maritime",
+    "department_code": "17"
+  },
+  "SAINTE MAXIME": {
+    "department": "Var",
+    "department_code": "83"
+  },
+  "SANSAC DE MARMIESSE": {
+    "department": "Cantal",
+    "department_code": "15"
+  },
+  "SARGE LES LE MANS": {
+    "department": "Sarthe",
+    "department_code": "72"
+  },
+  "SARTENE": {
+    "department": "Corse-du-Sud",
+    "department_code": "2A"
+  },
+  "SAVENAY": {
+    "department": "Loire-Atlantique",
+    "department_code": "44"
+  },
+  "SEILH": {
+    "department": "Haute-Garonne",
+    "department_code": "31"
+  },
+  "ST FELIX REILHAC MORTEMART": {
+    "department": "Dordogne",
+    "department_code": "24"
+  },
+  "ST GILLES LES HAUTS": {
+    "department": "",
+    "department_code": ""
+  },
+  "ST PIERRE DU PERRAY": {
+    "department": "Essonne",
+    "department_code": "91"
+  },
+  "TALLOIRES": {
+    "department": "Haute-Savoie",
+    "department_code": "74"
+  },
+  "TALMONT SAINT HILAIRE": {
+    "department": "Vendée",
+    "department_code": "85"
+  },
+  "THIVERVAL GRIGNON": {
+    "department": "Yvelines",
+    "department_code": "78"
+  },
+  "THUMERIES": {
+    "department": "Nord",
+    "department_code": "59"
+  },
+  "TOURNEFEUILLE": {
+    "department": "Haute-Garonne",
+    "department_code": "31"
+  },
+  "VARAVILLE": {
+    "department": "Calvados",
+    "department_code": "14"
+  },
+  "VAUREAL": {
+    "department": "Val-d'Oise",
+    "department_code": "95"
+  },
+  "VERNANTOIS": {
+    "department": "Jura",
+    "department_code": "39"
+  },
+  "VERSAILLES": {
+    "department": "Yvelines",
+    "department_code": "78"
+  },
+  "VIEILLE TOULOUSE": {
+    "department": "Haute-Garonne",
+    "department_code": "31"
+  },
+  "VILLARS LES DOMBES": {
+    "department": "Ain",
+    "department_code": "01"
+  },
+  "VILLEDIEU SUR INDRE": {
+    "department": "Indre",
+    "department_code": "36"
+  },
+  "VILLENAVE-D'ORNON": {
+    "department": "Gironde",
+    "department_code": "33"
+  },
+  "VILLENEUVE D'ASCQ": {
+    "department": "Nord",
+    "department_code": "59"
+  },
+  "VILLEREST": {
+    "department": "Loire",
+    "department_code": "42"
+  },
+  "VILLETTE D'ANTHON": {
+    "department": "Isère",
+    "department_code": "38"
+  },
+  "VINEUIL SAINT FIRMIN": {
+    "department": "Oise",
+    "department_code": "60"
+  },
+  "WIMEREUX": {
+    "department": "Pas-de-Calais",
+    "department_code": "62"
+  },
+  "WITTELSHEIM": {
+    "department": "Haut-Rhin",
+    "department_code": "68"
+  },
+  "SERBANES": {
+    "department": "Allier",
+    "department_code": "03"
+  },
+  "THOURY FERROTTES": {
+    "department": "Seine-et-Marne",
+    "department_code": "77"
+  }
+}
