@@ -134,16 +134,25 @@ function renderTimeline() {
             showarrow: false, font: { size: 9, color: tc.muted }, yshift: 10,
         };
     });
+    // Month labels below bars
+    ALL_MONTHS.forEach(m => {
+        const label = new Date(m + '-15').toLocaleString('default', { month: 'short' });
+        annotations.push({
+            x: m + '-15', y: 0, xref: 'x2', yref: 'y2',
+            text: `<b>${label}</b>`,
+            showarrow: false, font: { size: 10, color: tc.muted }, yshift: -14,
+        });
+    });
 
     const totalCount = _selections.size;
     const totalCost = data.filter(r => _selections.has(r.id)).reduce((s, r) => s + r.cost_total, 0);
 
     const layout = {
         grid: { rows: 2, columns: 1, pattern: 'independent', roworder: 'top to bottom' },
-        xaxis: { dtick: 'M1', tickformat: '%b', range: ['2026-03-15', '2026-12-15'], showticklabels: false, gridcolor: tc.grid, domain: [0, 1], anchor: 'y', tickfont: { color: tc.muted } },
+        xaxis: { tickformat: '%d %b', range: ['2026-03-15', '2026-12-15'], gridcolor: tc.grid, domain: [0, 1], anchor: 'y', tickfont: { color: tc.muted } },
         yaxis: { title: { text: 'Cost per event (EUR)', font: { color: tc.muted } }, gridcolor: tc.grid, zeroline: false, domain: [0.28, 1], anchor: 'x', tickfont: { color: tc.muted } },
-        xaxis2: { dtick: 'M1', tickformat: '%b', range: ['2026-03-15', '2026-12-15'], gridcolor: tc.grid, domain: [0, 1], anchor: 'y2', tickfont: { color: tc.muted } },
-        yaxis2: { title: { text: 'Monthly spend (EUR)', font: { color: tc.muted } }, gridcolor: tc.grid, zeroline: false, domain: [0, 0.22], anchor: 'x2', tickfont: { color: tc.muted } },
+        xaxis2: { dtick: 'M1', range: ['2026-03-15', '2026-12-15'], gridcolor: tc.grid, domain: [0, 1], anchor: 'y2', tickfont: { color: tc.muted }, fixedrange: true, showticklabels: false },
+        yaxis2: { title: { text: 'Monthly spend (EUR)', font: { color: tc.muted } }, gridcolor: tc.grid, zeroline: false, domain: [0, 0.22], anchor: 'x2', tickfont: { color: tc.muted }, fixedrange: true },
         title: {
             text: `Birdie Plan 2026<br><sup>${totalCount} selected | Budget: ${Math.round(totalCost).toLocaleString()} EUR</sup>`,
             font: { size: 16, color: tc.text }, x: 0.01, xanchor: 'left',
