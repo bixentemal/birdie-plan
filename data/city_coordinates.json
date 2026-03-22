@@ -1,0 +1,882 @@
+{
+  "ABLEIGES": {
+    "lat": 49.0901646,
+    "lng": 1.9812325
+  },
+  "AINGERAY": {
+    "lat": 48.7396792,
+    "lng": 6.0025048
+  },
+  "AIX EN PROVENCE": {
+    "lat": 43.5298424,
+    "lng": 5.4474738
+  },
+  "ALBI": {
+    "lat": 43.9277552,
+    "lng": 2.147899
+  },
+  "ALBON": {
+    "lat": 45.2450813,
+    "lng": 4.8489303
+  },
+  "ANGLET": {
+    "lat": 43.4813927,
+    "lng": -1.5149935
+  },
+  "ANGOULEME": {
+    "lat": 45.6484505,
+    "lng": 0.1561947
+  },
+  "APREMONT": {
+    "lat": 49.2247297,
+    "lng": 2.5113646
+  },
+  "ARDON": {
+    "lat": 47.77747,
+    "lng": 1.87302
+  },
+  "ARTIGUELOUVE": {
+    "lat": 43.320145,
+    "lng": -0.4726674
+  },
+  "AUGERVILLE LA RIVIERE": {
+    "lat": 48.2524429,
+    "lng": 2.4354094
+  },
+  "AURAY": {
+    "lat": 47.6664485,
+    "lng": -2.9833718
+  },
+  "BADEN": {
+    "lat": 47.6199988,
+    "lng": -2.9184744
+  },
+  "BAILLARGUES": {
+    "lat": 43.6609569,
+    "lng": 4.0133114
+  },
+  "BALLAN MIRE": {
+    "lat": 47.3413214,
+    "lng": 0.6131325
+  },
+  "BARBASTE": {
+    "lat": 44.1701233,
+    "lng": 0.2867228
+  },
+  "BASSE RENTGEN": {
+    "lat": 49.4835426,
+    "lng": 6.2033524
+  },
+  "BAUGE-EN-ANJOU": {
+    "lat": 47.5612379,
+    "lng": -0.1036842
+  },
+  "BEAUMONT SAINT-CYR": {
+    "lat": 46.7253903,
+    "lng": 0.4482796
+  },
+  "BELLEME": {
+    "lat": 48.3753612,
+    "lng": 0.5629418
+  },
+  "BELLERIVE SUR ALLIER": {
+    "lat": 46.1156244,
+    "lng": 3.4063997
+  },
+  "BENODET": {
+    "lat": 47.8746373,
+    "lng": -4.1109828
+  },
+  "BEZIERS": {
+    "lat": 43.3426562,
+    "lng": 3.2131307
+  },
+  "BIARRITZ": {
+    "lat": 43.4832523,
+    "lng": -1.5592776
+  },
+  "BIEVILLE BEUVILLE": {
+    "lat": 49.2386789,
+    "lng": -0.3288006
+  },
+  "BILLERE": {
+    "lat": 43.3030044,
+    "lng": -0.3905556
+  },
+  "BOE": {
+    "lat": 44.1605556,
+    "lng": 0.6294444
+  },
+  "BONDOUFLE": {
+    "lat": 48.6137157,
+    "lng": 2.3805119
+  },
+  "BONDUES": {
+    "lat": 50.7034622,
+    "lng": 3.0921638
+  },
+  "BONIFACIO": {
+    "lat": 41.3878259,
+    "lng": 9.1606179
+  },
+  "BORDEAUX": {
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  "BOSSEY": {
+    "lat": 46.1516629,
+    "lng": 6.1588637
+  },
+  "BOURG LES VALENCE": {
+    "lat": 44.9528222,
+    "lng": 4.8953847
+  },
+  "BOURGES": {
+    "lat": 47.0811658,
+    "lng": 2.399125
+  },
+  "BOUTIGNY": {
+    "lat": 48.9209326,
+    "lng": 2.9296609
+  },
+  "BREVILLE SUR MER": {
+    "lat": 48.8651125,
+    "lng": -1.5576965
+  },
+  "BRIGNOLES": {
+    "lat": 43.4064401,
+    "lng": 6.0616452
+  },
+  "BRUZ": {
+    "lat": 48.0245814,
+    "lng": -1.7471629
+  },
+  "BUSSY SAINT GEORGES": {
+    "lat": 48.8389953,
+    "lng": 2.7171086
+  },
+  "BUZET-SUR-TARN": {
+    "lat": 43.7793427,
+    "lng": 1.6323299
+  },
+  "CAP D'AGDE": {
+    "lat": 43.2845374,
+    "lng": 3.5117752
+  },
+  "CARCASSONNE": {
+    "lat": 43.2130358,
+    "lng": 2.3491069
+  },
+  "CASTELJALOUX": {
+    "lat": 44.3142971,
+    "lng": 0.0880691
+  },
+  "CASTELNAUD DE GRATECAMBE": {
+    "lat": 44.4979614,
+    "lng": 0.669986
+  },
+  "CASTRES": {
+    "lat": 43.6053809,
+    "lng": 2.2411289
+  },
+  "CELY EN BIERE": {
+    "lat": 48.4590138,
+    "lng": 2.5326635
+  },
+  "CERNY EN LAONNOIS": {
+    "lat": 49.4438685,
+    "lng": 3.6686223
+  },
+  "CHAOURCE": {
+    "lat": 48.0581589,
+    "lng": 4.1371816
+  },
+  "CHARPEY": {
+    "lat": 44.9387472,
+    "lng": 5.0929503
+  },
+  "CHASSIEU": {
+    "lat": 45.7422756,
+    "lng": 4.9681796
+  },
+  "CHAUMONT EN VEXIN": {
+    "lat": 49.2625682,
+    "lng": 1.8821405
+  },
+  "CHAUSSY": {
+    "lat": 48.1693503,
+    "lng": 1.9805767
+  },
+  "CHERISEY": {
+    "lat": 49.0134,
+    "lng": 6.2349
+  },
+  "CHEVANNES": {
+    "lat": 47.1585891,
+    "lng": 4.8480674
+  },
+  "CHEVERNY": {
+    "lat": 47.4996989,
+    "lng": 1.4611064
+  },
+  "CHOLET": {
+    "lat": 47.0617293,
+    "lng": -0.8801359
+  },
+  "CIBOURE": {
+    "lat": 43.3844003,
+    "lng": -1.6676238
+  },
+  "CONDEISSIAT": {
+    "lat": 46.1562,
+    "lng": 5.07952
+  },
+  "COUDEKERQUE": {
+    "lat": 50.9940083,
+    "lng": 2.419676
+  },
+  "COURSON MONTELOUP": {
+    "lat": 48.5922603,
+    "lng": 2.1451135
+  },
+  "COURTISOLS": {
+    "lat": 48.9865731,
+    "lng": 4.516097
+  },
+  "CRAINTILLEUX": {
+    "lat": 45.5843,
+    "lng": 4.23378
+  },
+  "CRECY LA CHAPELLE": {
+    "lat": 48.8578447,
+    "lng": 2.9086092
+  },
+  "DAMPIERRE SUR LE DOUBS": {
+    "lat": 47.4738644,
+    "lng": 6.7324675
+  },
+  "DIGNE LES BAINS": {
+    "lat": 44.0917585,
+    "lng": 6.2346362
+  },
+  "DOL DE BRETAGNE": {
+    "lat": 48.5498295,
+    "lng": -1.754257
+  },
+  "DOMONT": {
+    "lat": 49.0285536,
+    "lng": 2.3278097
+  },
+  "DONNERY": {
+    "lat": 47.9126,
+    "lng": 2.11219
+  },
+  "DREMIL LAFAGE": {
+    "lat": 43.5969276,
+    "lng": 1.6013136
+  },
+  "EAUZE": {
+    "lat": 43.8613548,
+    "lng": 0.1003051
+  },
+  "ESPALAIS": {
+    "lat": 44.0772222,
+    "lng": 0.9038889
+  },
+  "ETIOLLES": {
+    "lat": 48.6380667,
+    "lng": 2.4775273
+  },
+  "EVREUX": {
+    "lat": 49.0268903,
+    "lng": 1.1510164
+  },
+  "FONTAINEBLEAU": {
+    "lat": 48.4049375,
+    "lng": 2.7015872
+  },
+  "FONTCOUVERTE": {
+    "lat": 45.771732,
+    "lng": -0.5922185
+  },
+  "FORT MAHON PLAGE": {
+    "lat": 50.3418305,
+    "lng": 1.5623072
+  },
+  "FOURQUEUX": {
+    "lat": 48.8865297,
+    "lng": 2.0644977
+  },
+  "FUVEAU": {
+    "lat": 43.4539098,
+    "lng": 5.5608088
+  },
+  "GADANCOURT": {
+    "lat": 49.100771,
+    "lng": 1.862133
+  },
+  "GAP": {
+    "lat": 44.5612032,
+    "lng": 6.0820639
+  },
+  "GARCHES": {
+    "lat": 48.8437486,
+    "lng": 2.1853699
+  },
+  "GARDEGAN ET TOURTIRAC": {
+    "lat": 44.9010732,
+    "lng": -0.0193693
+  },
+  "GRASSE": {
+    "lat": 43.6589011,
+    "lng": 6.9239103
+  },
+  "GUERANDE": {
+    "lat": 47.3282126,
+    "lng": -2.4298014
+  },
+  "GUEUX": {
+    "lat": 49.2511954,
+    "lng": 3.9102946
+  },
+  "GUJAN MESTRAS": {
+    "lat": 44.6360982,
+    "lng": -1.0714014
+  },
+  "HOSSEGOR": {
+    "lat": 42.672696,
+    "lng": 3.0308142
+  },
+  "ILLKIRCH GRAFFENSTADEN": {
+    "lat": 48.5299117,
+    "lng": 7.7113254
+  },
+  "IVRY LE TEMPLE": {
+    "lat": 49.2296066,
+    "lng": 2.030354
+  },
+  "JANVRY": {
+    "lat": 49.2459051,
+    "lng": 3.8767333
+  },
+  "JUVIGNAC": {
+    "lat": 43.6140784,
+    "lng": 3.8101646
+  },
+  "L'ISLE ADAM": {
+    "lat": 49.1125294,
+    "lng": 2.2186324
+  },
+  "LA BASTIDE DE SEROU": {
+    "lat": 43.0115497,
+    "lng": 1.4283987
+  },
+  "LA FERTE SAINT-AUBIN": {
+    "lat": 47.7169399,
+    "lng": 1.9442053
+  },
+  "LA GARDE": {
+    "lat": 43.1249185,
+    "lng": 6.0128532
+  },
+  "LA LONDE LES MAURES": {
+    "lat": 43.1381313,
+    "lng": 6.2355346
+  },
+  "LA QUEUE LES YVELINES": {
+    "lat": 48.8065092,
+    "lng": 1.7646761
+  },
+  "LA REUNION": {
+    "lat": -21.1309332,
+    "lng": 55.5265771
+  },
+  "LA TESTE": {
+    "lat": 44.6369726,
+    "lng": -1.1429337
+  },
+  "LA TOUR DE SALVAGNY": {
+    "lat": 45.8129372,
+    "lng": 4.7163893
+  },
+  "LA VARENNE": {
+    "lat": 47.3202249,
+    "lng": -1.3021842
+  },
+  "LA WANTZENAU": {
+    "lat": 48.6583055,
+    "lng": 7.8277685
+  },
+  "LACANAU": {
+    "lat": 44.9776088,
+    "lng": -1.0784851
+  },
+  "LACHAPELLE AUZAC": {
+    "lat": 44.9381392,
+    "lng": 1.4805773
+  },
+  "LALOUBERE": {
+    "lat": 43.2057612,
+    "lng": 0.0721598
+  },
+  "LAMORLAYE": {
+    "lat": 49.1598,
+    "lng": 2.42438
+  },
+  "LE CASTELET": {
+    "lat": 49.08707,
+    "lng": -0.2882907
+  },
+  "LE COUDRAY MONTCEAUX": {
+    "lat": 48.5653177,
+    "lng": 2.4855792
+  },
+  "LE PIAN MEDOC": {
+    "lat": 44.9549001,
+    "lng": -0.6683986
+  },
+  "LE TOUQUET PARIS PLAGE": {
+    "lat": 50.5200083,
+    "lng": 1.5864532
+  },
+  "LE TRONCHET": {
+    "lat": 48.4862442,
+    "lng": -1.838977
+  },
+  "LE VAUDREUIL": {
+    "lat": 49.2551454,
+    "lng": 1.204956
+  },
+  "LES BAUX DE PROVENCE": {
+    "lat": 43.7436458,
+    "lng": 4.7950342
+  },
+  "LES MILLES": {
+    "lat": 43.5036881,
+    "lng": 5.3873997
+  },
+  "LES PRAZ DE CHAMONIX": {
+    "lat": 45.9404532,
+    "lng": 6.8865884
+  },
+  "LESIGNY": {
+    "lat": 48.7441196,
+    "lng": 2.6146976
+  },
+  "LIMOGES": {
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  },
+  "LUZARCHES": {
+    "lat": 49.1124996,
+    "lng": 2.4223849
+  },
+  "MAGNY-LE-HONGRE": {
+    "lat": 48.8631156,
+    "lng": 2.8135257
+  },
+  "MALAIN": {
+    "lat": 47.3249791,
+    "lng": 4.7957471
+  },
+  "MARCILLY EN VILLETTE": {
+    "lat": 47.76351,
+    "lng": 2.0215
+  },
+  "MARLY": {
+    "lat": 50.3500747,
+    "lng": 3.5435909
+  },
+  "MARSAC SUR L'ISLE": {
+    "lat": 45.1833605,
+    "lng": 0.6561616
+  },
+  "MARSILLY": {
+    "lat": 46.231389,
+    "lng": -1.136667
+  },
+  "MAZIERES EN GATINE": {
+    "lat": 46.5327178,
+    "lng": -0.322791
+  },
+  "MERIGNIES": {
+    "lat": 50.506087,
+    "lng": 3.1103335
+  },
+  "MIGNALOUX BEAUVOIR": {
+    "lat": 46.5443255,
+    "lng": 0.4148949
+  },
+  "MIONNAY": {
+    "lat": 45.8948367,
+    "lng": 4.9311797
+  },
+  "MOISSON-MOUSSEAUX": {
+    "lat": 49.0626296,
+    "lng": 1.6519448
+  },
+  "MOLIETS ET MAA": {
+    "lat": 43.8487438,
+    "lng": -1.359045
+  },
+  "MONESTIER": {
+    "lat": 44.7729963,
+    "lng": 0.3266247
+  },
+  "MONT SAINT AIGNAN": {
+    "lat": 49.4679,
+    "lng": 1.0813
+  },
+  "MONTAUBAN": {
+    "lat": 44.0175835,
+    "lng": 1.3549991
+  },
+  "MONTCHANIN": {
+    "lat": 46.747427,
+    "lng": 4.4699684
+  },
+  "MONTHIEUX": {
+    "lat": 45.9567069,
+    "lng": 4.9410766
+  },
+  "MORTEMART": {
+    "lat": 46.0415562,
+    "lng": 0.9562559
+  },
+  "MOUGINS": {
+    "lat": 43.6008898,
+    "lng": 6.9963543
+  },
+  "MULSANNE": {
+    "lat": 47.9069356,
+    "lng": 0.2460607
+  },
+  "NESMY": {
+    "lat": 46.5922222,
+    "lng": -1.4025
+  },
+  "NEUFCHATEL HARDELOT": {
+    "lat": 50.6188491,
+    "lng": 1.6306156
+  },
+  "NIMES": {
+    "lat": 43.8374249,
+    "lng": 4.3600687
+  },
+  "NIORT": {
+    "lat": 46.3239233,
+    "lng": -0.4646064
+  },
+  "NORGES LA VILLE": {
+    "lat": 47.4065269,
+    "lng": 5.0792717
+  },
+  "OCTEVILLE SUR MER": {
+    "lat": 49.5553201,
+    "lng": 0.1161519
+  },
+  "ORCINES": {
+    "lat": 45.7853457,
+    "lng": 3.0113839
+  },
+  "ORMESSON SUR MARNE": {
+    "lat": 48.785641,
+    "lng": 2.5483998
+  },
+  "OZOIR LA FERRIERE": {
+    "lat": 48.7620904,
+    "lng": 2.6719421
+  },
+  "PANAZOL": {
+    "lat": 45.8369971,
+    "lng": 1.3059422
+  },
+  "PESSAC": {
+    "lat": 44.805615,
+    "lng": -0.6308396
+  },
+  "PIERREVERT": {
+    "lat": 43.8118768,
+    "lng": 5.749258
+  },
+  "PLAISANCE DU TOUCH": {
+    "lat": 43.5650991,
+    "lng": 1.2956832
+  },
+  "PLAN DE GRASSE": {
+    "lat": 43.6498966,
+    "lng": 6.9522696
+  },
+  "PLEUMEUR BODOU": {
+    "lat": 48.7732657,
+    "lng": -3.5187179
+  },
+  "PLOEMEUR": {
+    "lat": 47.7354591,
+    "lng": -3.4270534
+  },
+  "POISSY": {
+    "lat": 48.9274192,
+    "lng": 2.0426301
+  },
+  "PONT DE L'ARN": {
+    "lat": 43.5301927,
+    "lng": 2.4058402
+  },
+  "PORT EN BESSIN HUPPAIN": {
+    "lat": 49.3458498,
+    "lng": -0.7526611
+  },
+  "POSES": {
+    "lat": 49.3078259,
+    "lng": 1.2387989
+  },
+  "POUILLY EN AUXOIS": {
+    "lat": 47.2622415,
+    "lng": 4.5561961
+  },
+  "PREUX AU SART": {
+    "lat": 50.2836214,
+    "lng": 3.6873307
+  },
+  "PULNOY": {
+    "lat": 48.7004346,
+    "lng": 6.2567749
+  },
+  "QUERRIEU": {
+    "lat": 49.9391133,
+    "lng": 2.431445
+  },
+  "QUETIGNY": {
+    "lat": 47.3125861,
+    "lng": 5.1162694
+  },
+  "QUEVEN": {
+    "lat": 47.788792,
+    "lng": -3.4161464
+  },
+  "RARAY": {
+    "lat": 49.2596789,
+    "lng": 2.7151668
+  },
+  "ROCHEFORT EN YVELINES": {
+    "lat": 48.5872266,
+    "lng": 1.9878964
+  },
+  "ROISSY EN FRANCE": {
+    "lat": 49.0032865,
+    "lng": 2.5176985
+  },
+  "RONCHIN": {
+    "lat": 50.6056749,
+    "lng": 3.0778827
+  },
+  "ROQUEBRUNE SUR ARGENS": {
+    "lat": 43.4433565,
+    "lng": 6.6363623
+  },
+  "ROQUES": {
+    "lat": 43.5109039,
+    "lng": 1.3755068
+  },
+  "ROUGEMONT LE CHATEAU": {
+    "lat": 47.7360641,
+    "lng": 6.9678379
+  },
+  "SABLE SUR SARTHE": {
+    "lat": 47.8400712,
+    "lng": -0.3352048
+  },
+  "SAILLY": {
+    "lat": 46.5355649,
+    "lng": 4.566338
+  },
+  "SAINT ANDRE DES EAUX": {
+    "lat": 48.3711691,
+    "lng": -2.0087518
+  },
+  "SAINT ANTOINE DU ROCHER": {
+    "lat": 47.496733,
+    "lng": 0.6303753
+  },
+  "SAINT AVIT": {
+    "lat": 45.8718983,
+    "lng": 2.525503
+  },
+  "SAINT BRIAC SUR MER": {
+    "lat": 48.6183398,
+    "lng": -2.1327847
+  },
+  "SAINT BRICE": {
+    "lat": 48.5679822,
+    "lng": 3.3254721
+  },
+  "SAINT CAST LE GUILDO": {
+    "lat": 48.6241288,
+    "lng": -2.2617846
+  },
+  "SAINT CLAIR - ANNONAY": {
+    "lat": 45.2726754,
+    "lng": 4.6734611
+  },
+  "SAINT GERMAIN EN LAYE": {
+    "lat": 48.8990413,
+    "lng": 2.0942792
+  },
+  "SAINT GERMAIN LES CORBEIL": {
+    "lat": 48.6261053,
+    "lng": 2.4913639
+  },
+  "SAINT JACQUES DE LA LANDE": {
+    "lat": 48.0806436,
+    "lng": -1.7135029
+  },
+  "SAINT JULIEN SUR CALONNE": {
+    "lat": 49.2913889,
+    "lng": 0.2286111
+  },
+  "SAINT NOM LA BRETECHE": {
+    "lat": 48.8641009,
+    "lng": 2.0205241
+  },
+  "SAINT PALAIS SUR MER": {
+    "lat": 45.6428769,
+    "lng": -1.0859957
+  },
+  "SAINT PARDON DE CONQUES": {
+    "lat": 44.5556647,
+    "lng": -0.1886653
+  },
+  "SAINT QUENTIN SUR ISERE": {
+    "lat": 45.2813529,
+    "lng": 5.5471606
+  },
+  "SAINT RAPHAEL": {
+    "lat": 43.4254,
+    "lng": 6.7688
+  },
+  "SAINT-LAURENT DE LA PREE": {
+    "lat": 45.981944,
+    "lng": -1.04
+  },
+  "SAINTE MAXIME": {
+    "lat": 43.30871,
+    "lng": 6.637714
+  },
+  "SANSAC DE MARMIESSE": {
+    "lat": 44.8824607,
+    "lng": 2.3485484
+  },
+  "SARGE LES LE MANS": {
+    "lat": 48.0339235,
+    "lng": 0.2402009
+  },
+  "SARTENE": {
+    "lat": 41.6208848,
+    "lng": 8.9721882
+  },
+  "SAVENAY": {
+    "lat": 47.3592304,
+    "lng": -1.9421244
+  },
+  "SEILH": {
+    "lat": 43.694573,
+    "lng": 1.3534881
+  },
+  "ST FELIX REILHAC MORTEMART": {
+    "lat": 45.0198908,
+    "lng": 0.915432
+  },
+  "ST GILLES LES HAUTS": {
+    "lat": -21.0465571,
+    "lng": 55.2666791
+  },
+  "ST PIERRE DU PERRAY": {
+    "lat": 48.6137867,
+    "lng": 2.505381
+  },
+  "TALLOIRES": {
+    "lat": 45.8395012,
+    "lng": 6.2149626
+  },
+  "TALMONT SAINT HILAIRE": {
+    "lat": 46.4775007,
+    "lng": -1.6280266
+  },
+  "THIVERVAL GRIGNON": {
+    "lat": 48.8418686,
+    "lng": 1.9342972
+  },
+  "THUMERIES": {
+    "lat": 50.4725,
+    "lng": 3.06638
+  },
+  "TOURNEFEUILLE": {
+    "lat": 43.5832062,
+    "lng": 1.3460025
+  },
+  "VARAVILLE": {
+    "lat": 49.253386,
+    "lng": -0.1582652
+  },
+  "VAUREAL": {
+    "lat": 49.1279436,
+    "lng": 1.764111
+  },
+  "VERNANTOIS": {
+    "lat": 46.6278,
+    "lng": 5.57611
+  },
+  "VERSAILLES": {
+    "lat": 48.8035403,
+    "lng": 2.1266886
+  },
+  "VIEILLE TOULOUSE": {
+    "lat": 43.5271458,
+    "lng": 1.4455249
+  },
+  "VILLARS LES DOMBES": {
+    "lat": 46.0000471,
+    "lng": 5.0425155
+  },
+  "VILLEDIEU SUR INDRE": {
+    "lat": 46.8474516,
+    "lng": 1.5375901
+  },
+  "VILLENAVE-D'ORNON": {
+    "lat": 44.7737872,
+    "lng": -0.5595029
+  },
+  "VILLENEUVE D'ASCQ": {
+    "lat": 50.6193174,
+    "lng": 3.1314002
+  },
+  "VILLEREST": {
+    "lat": 45.9939206,
+    "lng": 4.0369461
+  },
+  "VILLETTE D'ANTHON": {
+    "lat": 45.79451,
+    "lng": 5.1130506
+  },
+  "VINEUIL SAINT FIRMIN": {
+    "lat": 49.2001504,
+    "lng": 2.4916222
+  },
+  "WIMEREUX": {
+    "lat": 50.7696528,
+    "lng": 1.6119368
+  },
+  "WITTELSHEIM": {
+    "lat": 47.8091086,
+    "lng": 7.2402432
+  },
+  "SERBANES": {
+    "lat": 46.0907168,
+    "lng": 3.3440477
+  },
+  "THOURY FERROTTES": {
+    "lat": 48.2915087,
+    "lng": 2.9414205
+  }
+}

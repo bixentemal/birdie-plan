@@ -1,0 +1,882 @@
+{
+  "ABLEIGES": {
+    "distance_km": 721.9,
+    "duration_minutes": 476.5
+  },
+  "AINGERAY": {
+    "distance_km": 890.5,
+    "duration_minutes": 558.3
+  },
+  "AIX EN PROVENCE": {
+    "distance_km": 417.5,
+    "duration_minutes": 267.4
+  },
+  "ALBI": {
+    "distance_km": 101.7,
+    "duration_minutes": 78.5
+  },
+  "ALBON": {
+    "distance_km": 510.5,
+    "duration_minutes": 318.5
+  },
+  "ANGLET": {
+    "distance_km": 296.5,
+    "duration_minutes": 187.6
+  },
+  "ANGOULEME": {
+    "distance_km": 372.8,
+    "duration_minutes": 249.9
+  },
+  "APREMONT": {
+    "distance_km": 753.9,
+    "duration_minutes": 486.5
+  },
+  "ARDON": {
+    "distance_km": 568.4,
+    "duration_minutes": 362.2
+  },
+  "ARTIGUELOUVE": {
+    "distance_km": 199.0,
+    "duration_minutes": 127.2
+  },
+  "AUGERVILLE LA RIVIERE": {
+    "distance_km": 640.7,
+    "duration_minutes": 415.7
+  },
+  "AURAY": {
+    "distance_km": 732.1,
+    "duration_minutes": 466.1
+  },
+  "BADEN": {
+    "distance_km": 729.3,
+    "duration_minutes": 467.6
+  },
+  "BAILLARGUES": {
+    "distance_km": 280.4,
+    "duration_minutes": 181.4
+  },
+  "BALLAN MIRE": {
+    "distance_km": 603.3,
+    "duration_minutes": 376.0
+  },
+  "BARBASTE": {
+    "distance_km": 161.0,
+    "duration_minutes": 121.1
+  },
+  "BASSE RENTGEN": {
+    "distance_km": 992.5,
+    "duration_minutes": 634.7
+  },
+  "BAUGE-EN-ANJOU": {
+    "distance_km": 597.5,
+    "duration_minutes": 410.6
+  },
+  "BEAUMONT SAINT-CYR": {
+    "distance_km": 524.4,
+    "duration_minutes": 331.2
+  },
+  "BELLEME": {
+    "distance_km": 743.4,
+    "duration_minutes": 474.0
+  },
+  "BELLERIVE SUR ALLIER": {
+    "distance_km": 436.7,
+    "duration_minutes": 282.1
+  },
+  "BENODET": {
+    "distance_km": 833.8,
+    "duration_minutes": 548.2
+  },
+  "BEZIERS": {
+    "distance_km": 209.6,
+    "duration_minutes": 138.9
+  },
+  "BIARRITZ": {
+    "distance_km": 303.7,
+    "duration_minutes": 191.7
+  },
+  "BIEVILLE BEUVILLE": {
+    "distance_km": 867.4,
+    "duration_minutes": 539.5
+  },
+  "BILLERE": {
+    "distance_km": 191.9,
+    "duration_minutes": 126.6
+  },
+  "BOE": {
+    "distance_km": 130.9,
+    "duration_minutes": 94.8
+  },
+  "BONDOUFLE": {
+    "distance_km": 681.5,
+    "duration_minutes": 429.3
+  },
+  "BONDUES": {
+    "distance_km": 922.9,
+    "duration_minutes": 592.7
+  },
+  "BONIFACIO": {
+    "distance_km": 1003.7,
+    "duration_minutes": 1014.0
+  },
+  "BORDEAUX": {
+    "distance_km": 261.9,
+    "duration_minutes": 174.6
+  },
+  "BOSSEY": {
+    "distance_km": 708.0,
+    "duration_minutes": 437.7
+  },
+  "BOURG LES VALENCE": {
+    "distance_km": 471.7,
+    "duration_minutes": 291.2
+  },
+  "BOURGES": {
+    "distance_km": 525.1,
+    "duration_minutes": 338.2
+  },
+  "BOUTIGNY": {
+    "distance_km": 737.8,
+    "duration_minutes": 472.7
+  },
+  "BREVILLE SUR MER": {
+    "distance_km": 824.2,
+    "duration_minutes": 532.7
+  },
+  "BRIGNOLES": {
+    "distance_km": 472.7,
+    "duration_minutes": 299.2
+  },
+  "BRUZ": {
+    "distance_km": 707.7,
+    "duration_minutes": 452.6
+  },
+  "BUSSY SAINT GEORGES": {
+    "distance_km": 717.2,
+    "duration_minutes": 460.3
+  },
+  "BUZET-SUR-TARN": {
+    "distance_km": 53.7,
+    "duration_minutes": 51.0
+  },
+  "CAP D'AGDE": {
+    "distance_km": 236.3,
+    "duration_minutes": 154.8
+  },
+  "CARCASSONNE": {
+    "distance_km": 113.5,
+    "duration_minutes": 85.4
+  },
+  "CASTELJALOUX": {
+    "distance_km": 176.6,
+    "duration_minutes": 127.1
+  },
+  "CASTELNAUD DE GRATECAMBE": {
+    "distance_km": 174.2,
+    "duration_minutes": 135.9
+  },
+  "CASTRES": {
+    "distance_km": 106.8,
+    "duration_minutes": 99.6
+  },
+  "CELY EN BIERE": {
+    "distance_km": 672.4,
+    "duration_minutes": 441.8
+  },
+  "CERNY EN LAONNOIS": {
+    "distance_km": 841.2,
+    "duration_minutes": 551.6
+  },
+  "CHAOURCE": {
+    "distance_km": 798.7,
+    "duration_minutes": 502.8
+  },
+  "CHARPEY": {
+    "distance_km": 482.4,
+    "duration_minutes": 302.9
+  },
+  "CHASSIEU": {
+    "distance_km": 572.3,
+    "duration_minutes": 356.6
+  },
+  "CHAUMONT EN VEXIN": {
+    "distance_km": 745.6,
+    "duration_minutes": 496.6
+  },
+  "CHAUSSY": {
+    "distance_km": 604.9,
+    "duration_minutes": 386.6
+  },
+  "CHERISEY": {
+    "distance_km": 940.2,
+    "duration_minutes": 595.0
+  },
+  "CHEVANNES": {
+    "distance_km": 665.4,
+    "duration_minutes": 429.9
+  },
+  "CHEVERNY": {
+    "distance_km": 518.4,
+    "duration_minutes": 357.5
+  },
+  "CHOLET": {
+    "distance_km": 589.8,
+    "duration_minutes": 368.0
+  },
+  "CIBOURE": {
+    "distance_km": 311.1,
+    "duration_minutes": 192.5
+  },
+  "CONDEISSIAT": {
+    "distance_km": 616.0,
+    "duration_minutes": 406.9
+  },
+  "COUDEKERQUE": {
+    "distance_km": 983.1,
+    "duration_minutes": 627.6
+  },
+  "COURSON MONTELOUP": {
+    "distance_km": 660.1,
+    "duration_minutes": 421.5
+  },
+  "COURTISOLS": {
+    "distance_km": 868.2,
+    "duration_minutes": 551.5
+  },
+  "CRAINTILLEUX": {
+    "distance_km": 536.3,
+    "duration_minutes": 343.0
+  },
+  "CRECY LA CHAPELLE": {
+    "distance_km": 732.9,
+    "duration_minutes": 469.1
+  },
+  "DAMPIERRE SUR LE DOUBS": {
+    "distance_km": 816.3,
+    "duration_minutes": 511.7
+  },
+  "DIGNE LES BAINS": {
+    "distance_km": 524.6,
+    "duration_minutes": 343.7
+  },
+  "DOL DE BRETAGNE": {
+    "distance_km": 782.6,
+    "duration_minutes": 503.5
+  },
+  "DOMONT": {
+    "distance_km": 717.4,
+    "duration_minutes": 477.2
+  },
+  "DONNERY": {
+    "distance_km": 573.1,
+    "duration_minutes": 386.2
+  },
+  "DREMIL LAFAGE": {
+    "distance_km": 47.4,
+    "duration_minutes": 48.6
+  },
+  "EAUZE": {
+    "distance_km": 120.8,
+    "duration_minutes": 106.0
+  },
+  "ESPALAIS": {
+    "distance_km": 107.7,
+    "duration_minutes": 79.2
+  },
+  "ETIOLLES": {
+    "distance_km": 687.4,
+    "duration_minutes": 438.8
+  },
+  "EVREUX": {
+    "distance_km": 727.0,
+    "duration_minutes": 486.1
+  },
+  "FONTAINEBLEAU": {
+    "distance_km": 692.8,
+    "duration_minutes": 438.9
+  },
+  "FONTCOUVERTE": {
+    "distance_km": 374.4,
+    "duration_minutes": 241.3
+  },
+  "FORT MAHON PLAGE": {
+    "distance_km": 910.8,
+    "duration_minutes": 594.2
+  },
+  "FOURQUEUX": {
+    "distance_km": 692.6,
+    "duration_minutes": 456.6
+  },
+  "FUVEAU": {
+    "distance_km": 430.2,
+    "duration_minutes": 276.2
+  },
+  "GADANCOURT": {
+    "distance_km": 723.2,
+    "duration_minutes": 482.9
+  },
+  "GAP": {
+    "distance_km": 565.7,
+    "duration_minutes": 362.9
+  },
+  "GARCHES": {
+    "distance_km": 693.1,
+    "duration_minutes": 445.3
+  },
+  "GARDEGAN ET TOURTIRAC": {
+    "distance_km": 249.5,
+    "duration_minutes": 188.8
+  },
+  "GRASSE": {
+    "distance_km": 576.3,
+    "duration_minutes": 369.3
+  },
+  "GUERANDE": {
+    "distance_km": 682.4,
+    "duration_minutes": 435.2
+  },
+  "GUEUX": {
+    "distance_km": 829.6,
+    "duration_minutes": 528.5
+  },
+  "GUJAN MESTRAS": {
+    "distance_km": 303.5,
+    "duration_minutes": 197.9
+  },
+  "HOSSEGOR": {
+    "distance_km": 245.2,
+    "duration_minutes": 163.3
+  },
+  "ILLKIRCH GRAFFENSTADEN": {
+    "distance_km": 972.9,
+    "duration_minutes": 613.9
+  },
+  "IVRY LE TEMPLE": {
+    "distance_km": 746.6,
+    "duration_minutes": 498.3
+  },
+  "JANVRY": {
+    "distance_km": 823.9,
+    "duration_minutes": 532.9
+  },
+  "JUVIGNAC": {
+    "distance_km": 271.9,
+    "duration_minutes": 176.6
+  },
+  "L'ISLE ADAM": {
+    "distance_km": 729.9,
+    "duration_minutes": 482.8
+  },
+  "LA BASTIDE DE SEROU": {
+    "distance_km": 89.6,
+    "duration_minutes": 85.1
+  },
+  "LA FERTE SAINT-AUBIN": {
+    "distance_km": 545.8,
+    "duration_minutes": 354.0
+  },
+  "LA GARDE": {
+    "distance_km": 505.4,
+    "duration_minutes": 326.6
+  },
+  "LA LONDE LES MAURES": {
+    "distance_km": 524.6,
+    "duration_minutes": 341.0
+  },
+  "LA QUEUE LES YVELINES": {
+    "distance_km": 681.5,
+    "duration_minutes": 442.9
+  },
+  "LA REUNION": {
+    "distance_km": 11389.0,
+    "duration_minutes": 8049.2
+  },
+  "LA TESTE": {
+    "distance_km": 309.0,
+    "duration_minutes": 203.8
+  },
+  "LA TOUR DE SALVAGNY": {
+    "distance_km": 557.2,
+    "duration_minutes": 356.4
+  },
+  "LA VARENNE": {
+    "distance_km": 625.3,
+    "duration_minutes": 397.8
+  },
+  "LA WANTZENAU": {
+    "distance_km": 1001.9,
+    "duration_minutes": 632.0
+  },
+  "LACANAU": {
+    "distance_km": 307.8,
+    "duration_minutes": 213.4
+  },
+  "LACHAPELLE AUZAC": {
+    "distance_km": 191.3,
+    "duration_minutes": 136.5
+  },
+  "LALOUBERE": {
+    "distance_km": 151.1,
+    "duration_minutes": 100.8
+  },
+  "LAMORLAYE": {
+    "distance_km": 745.2,
+    "duration_minutes": 486.8
+  },
+  "LE CASTELET": {
+    "distance_km": 845.3,
+    "duration_minutes": 522.3
+  },
+  "LE COUDRAY MONTCEAUX": {
+    "distance_km": 692.6,
+    "duration_minutes": 439.1
+  },
+  "LE PIAN MEDOC": {
+    "distance_km": 283.0,
+    "duration_minutes": 191.7
+  },
+  "LE TOUQUET PARIS PLAGE": {
+    "distance_km": 929.0,
+    "duration_minutes": 601.4
+  },
+  "LE TRONCHET": {
+    "distance_km": 771.1,
+    "duration_minutes": 496.7
+  },
+  "LE VAUDREUIL": {
+    "distance_km": 774.5,
+    "duration_minutes": 499.3
+  },
+  "LES BAUX DE PROVENCE": {
+    "distance_km": 364.6,
+    "duration_minutes": 242.2
+  },
+  "LES MILLES": {
+    "distance_km": 418.9,
+    "duration_minutes": 267.2
+  },
+  "LES PRAZ DE CHAMONIX": {
+    "distance_km": 708.9,
+    "duration_minutes": 471.9
+  },
+  "LESIGNY": {
+    "distance_km": 712.0,
+    "duration_minutes": 455.9
+  },
+  "LIMOGES": {
+    "distance_km": 306.4,
+    "duration_minutes": 202.8
+  },
+  "LUZARCHES": {
+    "distance_km": 738.4,
+    "duration_minutes": 478.6
+  },
+  "MAGNY-LE-HONGRE": {
+    "distance_km": 727.6,
+    "duration_minutes": 466.6
+  },
+  "MALAIN": {
+    "distance_km": 710.9,
+    "duration_minutes": 449.5
+  },
+  "MARCILLY EN VILLETTE": {
+    "distance_km": 551.2,
+    "duration_minutes": 361.5
+  },
+  "MARLY": {
+    "distance_km": 904.2,
+    "duration_minutes": 573.6
+  },
+  "MARSAC SUR L'ISLE": {
+    "distance_km": 293.8,
+    "duration_minutes": 200.1
+  },
+  "MARSILLY": {
+    "distance_km": 446.4,
+    "duration_minutes": 289.2
+  },
+  "MAZIERES EN GATINE": {
+    "distance_km": 471.2,
+    "duration_minutes": 297.7
+  },
+  "MERIGNIES": {
+    "distance_km": 909.7,
+    "duration_minutes": 579.6
+  },
+  "MIGNALOUX BEAUVOIR": {
+    "distance_km": 419.2,
+    "duration_minutes": 312.7
+  },
+  "MIONNAY": {
+    "distance_km": 593.8,
+    "duration_minutes": 371.8
+  },
+  "MOISSON-MOUSSEAUX": {
+    "distance_km": 741.5,
+    "duration_minutes": 488.6
+  },
+  "MOLIETS ET MAA": {
+    "distance_km": 310.0,
+    "duration_minutes": 209.5
+  },
+  "MONESTIER": {
+    "distance_km": 229.0,
+    "duration_minutes": 174.9
+  },
+  "MONT SAINT AIGNAN": {
+    "distance_km": 805.7,
+    "duration_minutes": 525.4
+  },
+  "MONTAUBAN": {
+    "distance_km": 70.1,
+    "duration_minutes": 60.8
+  },
+  "MONTCHANIN": {
+    "distance_km": 586.9,
+    "duration_minutes": 372.3
+  },
+  "MONTHIEUX": {
+    "distance_km": 602.0,
+    "duration_minutes": 382.3
+  },
+  "MORTEMART": {
+    "distance_km": 352.1,
+    "duration_minutes": 239.4
+  },
+  "MOUGINS": {
+    "distance_km": 564.6,
+    "duration_minutes": 356.2
+  },
+  "MULSANNE": {
+    "distance_km": 681.9,
+    "duration_minutes": 424.8
+  },
+  "NESMY": {
+    "distance_km": 504.5,
+    "duration_minutes": 348.0
+  },
+  "NEUFCHATEL HARDELOT": {
+    "distance_km": 935.7,
+    "duration_minutes": 600.3
+  },
+  "NIMES": {
+    "distance_km": 319.4,
+    "duration_minutes": 204.6
+  },
+  "NIORT": {
+    "distance_km": 440.5,
+    "duration_minutes": 284.2
+  },
+  "NORGES LA VILLE": {
+    "distance_km": 695.8,
+    "duration_minutes": 444.6
+  },
+  "OCTEVILLE SUR MER": {
+    "distance_km": 870.4,
+    "duration_minutes": 562.6
+  },
+  "ORCINES": {
+    "distance_km": 383.6,
+    "duration_minutes": 252.0
+  },
+  "ORMESSON SUR MARNE": {
+    "distance_km": 700.9,
+    "duration_minutes": 452.2
+  },
+  "OZOIR LA FERRIERE": {
+    "distance_km": 719.9,
+    "duration_minutes": 462.1
+  },
+  "PANAZOL": {
+    "distance_km": 306.2,
+    "duration_minutes": 204.2
+  },
+  "PESSAC": {
+    "distance_km": 259.6,
+    "duration_minutes": 172.0
+  },
+  "PIERREVERT": {
+    "distance_km": 475.2,
+    "duration_minutes": 308.3
+  },
+  "PLAISANCE DU TOUCH": {
+    "distance_km": 6.6,
+    "duration_minutes": 8.0
+  },
+  "PLAN DE GRASSE": {
+    "distance_km": 573.5,
+    "duration_minutes": 364.6
+  },
+  "PLEUMEUR BODOU": {
+    "distance_km": 885.3,
+    "duration_minutes": 581.0
+  },
+  "PLOEMEUR": {
+    "distance_km": 778.2,
+    "duration_minutes": 499.4
+  },
+  "POISSY": {
+    "distance_km": 701.1,
+    "duration_minutes": 458.2
+  },
+  "PONT DE L'ARN": {
+    "distance_km": 120.4,
+    "duration_minutes": 120.1
+  },
+  "PORT EN BESSIN HUPPAIN": {
+    "distance_km": 898.2,
+    "duration_minutes": 562.0
+  },
+  "POSES": {
+    "distance_km": 781.7,
+    "duration_minutes": 506.7
+  },
+  "POUILLY EN AUXOIS": {
+    "distance_km": 687.6,
+    "duration_minutes": 436.5
+  },
+  "PREUX AU SART": {
+    "distance_km": 914.6,
+    "duration_minutes": 583.4
+  },
+  "PULNOY": {
+    "distance_km": 898.2,
+    "duration_minutes": 570.6
+  },
+  "QUERRIEU": {
+    "distance_km": 844.6,
+    "duration_minutes": 551.5
+  },
+  "QUETIGNY": {
+    "distance_km": 686.3,
+    "duration_minutes": 438.9
+  },
+  "QUEVEN": {
+    "distance_km": 773.6,
+    "duration_minutes": 495.0
+  },
+  "RARAY": {
+    "distance_km": 757.6,
+    "duration_minutes": 491.2
+  },
+  "ROCHEFORT EN YVELINES": {
+    "distance_km": 648.1,
+    "duration_minutes": 408.2
+  },
+  "ROISSY EN FRANCE": {
+    "distance_km": 720.4,
+    "duration_minutes": 464.3
+  },
+  "RONCHIN": {
+    "distance_km": 910.9,
+    "duration_minutes": 578.6
+  },
+  "ROQUEBRUNE SUR ARGENS": {
+    "distance_km": 526.0,
+    "duration_minutes": 336.7
+  },
+  "ROQUES": {
+    "distance_km": 13.9,
+    "duration_minutes": 19.3
+  },
+  "ROUGEMONT LE CHATEAU": {
+    "distance_km": 852.2,
+    "duration_minutes": 540.1
+  },
+  "SABLE SUR SARTHE": {
+    "distance_km": 645.9,
+    "duration_minutes": 437.8
+  },
+  "SAILLY": {
+    "distance_km": 585.2,
+    "duration_minutes": 377.0
+  },
+  "SAINT ANDRE DES EAUX": {
+    "distance_km": 760.3,
+    "duration_minutes": 496.0
+  },
+  "SAINT ANTOINE DU ROCHER": {
+    "distance_km": 618.7,
+    "duration_minutes": 389.8
+  },
+  "SAINT AVIT": {
+    "distance_km": 371.7,
+    "duration_minutes": 261.0
+  },
+  "SAINT BRIAC SUR MER": {
+    "distance_km": 792.8,
+    "duration_minutes": 513.9
+  },
+  "SAINT BRICE": {
+    "distance_km": 751.4,
+    "duration_minutes": 490.1
+  },
+  "SAINT CAST LE GUILDO": {
+    "distance_km": 809.3,
+    "duration_minutes": 537.0
+  },
+  "SAINT CLAIR - ANNONAY": {
+    "distance_km": 528.7,
+    "duration_minutes": 327.8
+  },
+  "SAINT GERMAIN EN LAYE": {
+    "distance_km": 702.6,
+    "duration_minutes": 455.6
+  },
+  "SAINT GERMAIN LES CORBEIL": {
+    "distance_km": 690.8,
+    "duration_minutes": 437.0
+  },
+  "SAINT JACQUES DE LA LANDE": {
+    "distance_km": 711.8,
+    "duration_minutes": 454.3
+  },
+  "SAINT JULIEN SUR CALONNE": {
+    "distance_km": 867.0,
+    "duration_minutes": 544.7
+  },
+  "SAINT NOM LA BRETECHE": {
+    "distance_km": 688.0,
+    "duration_minutes": 453.0
+  },
+  "SAINT PALAIS SUR MER": {
+    "distance_km": 391.6,
+    "duration_minutes": 266.4
+  },
+  "SAINT PARDON DE CONQUES": {
+    "distance_km": 223.5,
+    "duration_minutes": 150.0
+  },
+  "SAINT QUENTIN SUR ISERE": {
+    "distance_km": 537.7,
+    "duration_minutes": 330.4
+  },
+  "SAINT RAPHAEL": {
+    "distance_km": 534.9,
+    "duration_minutes": 340.8
+  },
+  "SAINT-LAURENT DE LA PREE": {
+    "distance_km": 415.7,
+    "duration_minutes": 265.0
+  },
+  "SAINTE MAXIME": {
+    "distance_km": 535.7,
+    "duration_minutes": 342.6
+  },
+  "SANSAC DE MARMIESSE": {
+    "distance_km": 245.9,
+    "duration_minutes": 202.6
+  },
+  "SARGE LES LE MANS": {
+    "distance_km": 698.5,
+    "duration_minutes": 433.7
+  },
+  "SARTENE": {
+    "distance_km": 1012.0,
+    "duration_minutes": 1023.8
+  },
+  "SAVENAY": {
+    "distance_km": 643.9,
+    "duration_minutes": 404.5
+  },
+  "SEILH": {
+    "distance_km": 25.7,
+    "duration_minutes": 31.4
+  },
+  "ST FELIX REILHAC MORTEMART": {
+    "distance_km": 249.4,
+    "duration_minutes": 197.2
+  },
+  "ST GILLES LES HAUTS": {
+    "distance_km": 11396.6,
+    "duration_minutes": 8055.5
+  },
+  "ST PIERRE DU PERRAY": {
+    "distance_km": 692.8,
+    "duration_minutes": 439.8
+  },
+  "TALLOIRES": {
+    "distance_km": 673.9,
+    "duration_minutes": 435.9
+  },
+  "TALMONT SAINT HILAIRE": {
+    "distance_km": 515.9,
+    "duration_minutes": 357.3
+  },
+  "THIVERVAL GRIGNON": {
+    "distance_km": 682.5,
+    "duration_minutes": 445.6
+  },
+  "THUMERIES": {
+    "distance_km": 899.0,
+    "duration_minutes": 574.6
+  },
+  "TOURNEFEUILLE": {
+    "distance_km": 11.4,
+    "duration_minutes": 16.4
+  },
+  "VARAVILLE": {
+    "distance_km": 872.5,
+    "duration_minutes": 542.5
+  },
+  "VAUREAL": {
+    "distance_km": 742.2,
+    "duration_minutes": 489.4
+  },
+  "VERNANTOIS": {
+    "distance_km": 720.2,
+    "duration_minutes": 454.9
+  },
+  "VERSAILLES": {
+    "distance_km": 688.9,
+    "duration_minutes": 439.0
+  },
+  "VIEILLE TOULOUSE": {
+    "distance_km": 24.5,
+    "duration_minutes": 29.9
+  },
+  "VILLARS LES DOMBES": {
+    "distance_km": 609.4,
+    "duration_minutes": 390.6
+  },
+  "VILLEDIEU SUR INDRE": {
+    "distance_km": 432.7,
+    "duration_minutes": 280.7
+  },
+  "VILLENAVE-D'ORNON": {
+    "distance_km": 253.4,
+    "duration_minutes": 163.4
+  },
+  "VILLENEUVE D'ASCQ": {
+    "distance_km": 914.1,
+    "duration_minutes": 579.9
+  },
+  "VILLEREST": {
+    "distance_km": 505.0,
+    "duration_minutes": 334.7
+  },
+  "VILLETTE D'ANTHON": {
+    "distance_km": 585.5,
+    "duration_minutes": 368.1
+  },
+  "VINEUIL SAINT FIRMIN": {
+    "distance_km": 746.0,
+    "duration_minutes": 490.4
+  },
+  "WIMEREUX": {
+    "distance_km": 954.0,
+    "duration_minutes": 613.2
+  },
+  "WITTELSHEIM": {
+    "distance_km": 873.3,
+    "duration_minutes": 548.9
+  },
+  "SERBANES": {
+    "distance_km": 436.2,
+    "duration_minutes": 278.7
+  },
+  "THOURY FERROTTES": {
+    "distance_km": 687.3,
+    "duration_minutes": 444.7
+  }
+}
