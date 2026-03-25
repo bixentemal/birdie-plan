@@ -7,7 +7,6 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-    <script src="https://cdn.plot.ly/plotly-3.0.1.min.js"></script>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 </head>
 <body>
@@ -22,7 +21,8 @@
             <h1>Birdie Plan</h1>
         </div>
         <nav>
-            <button class="tab active" data-tab="timeline">Timeline</button>
+            <button class="tab active" data-tab="calendar">Calendar</button>
+            <button class="tab" data-tab="budget">Budget</button>
             <button class="tab" data-tab="map">Map</button>
             <button class="tab" data-tab="competitions">Competitions</button>
             <button class="tab" data-tab="settings">Settings</button>
@@ -34,9 +34,38 @@
     </header>
 
     <main>
-        <!-- Timeline Tab -->
-        <section id="tab-timeline" class="tab-content active">
-            <div id="plotly-chart"></div>
+        <!-- Calendar Tab -->
+        <section id="tab-calendar" class="tab-content active">
+            <div class="calendar-toolbar">
+                <div class="calendar-nav">
+                    <button class="btn btn-sm" id="cal-prev">&lsaquo;</button>
+                    <span class="calendar-title" id="cal-title">March 2026</span>
+                    <button class="btn btn-sm" id="cal-next">&rsaquo;</button>
+                    <button class="btn btn-sm" id="cal-today">Today</button>
+                </div>
+                <div class="calendar-views">
+                    <button class="cal-view-btn active" data-view="month">Month</button>
+                    <button class="cal-view-btn" data-view="week">Week</button>
+                    <button class="cal-view-btn" data-view="day">Day</button>
+                    <button class="cal-view-btn" data-view="year">Year</button>
+                </div>
+                <div class="calendar-filters">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="cal-selected-only"> Selected only
+                    </label>
+                    <select id="cal-filter-source">
+                        <option value="">All sources</option>
+                        <option value="club">Club</option>
+                        <option value="grand_prix">Grand Prix</option>
+                    </select>
+                </div>
+            </div>
+            <div id="calendar-grid"></div>
+        </section>
+
+        <!-- Budget Tab -->
+        <section id="tab-budget" class="tab-content">
+            <div id="budget-dashboard"></div>
         </section>
 
         <!-- Map Tab -->
@@ -273,7 +302,8 @@
     </div>
 
     <script src="/app.js"></script>
-    <script src="/timeline.js"></script>
+    <script src="/calendar.js"></script>
+    <script src="/budget.js"></script>
     <script src="/map.js"></script>
     <script src="/competitions.js"></script>
     <script src="/settings.js"></script>
