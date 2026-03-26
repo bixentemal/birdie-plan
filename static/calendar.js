@@ -240,6 +240,7 @@ function createSynopticLine(ev, weekDates) {
 
     const catColor = CAL_CATEGORY_COLORS[ev.distance_category] || CAL_COLORS[ev.source];
     el.style.background = catColor;
+    el.style.setProperty('--card-color', catColor);
 
     // Continuation indicators (flat ends when spanning beyond this week)
     if (ev.date_start < weekDates[0]) el.classList.add('continues-left');
@@ -271,6 +272,7 @@ function createSynopticDot(ev) {
 
     const catColor = CAL_CATEGORY_COLORS[ev.distance_category] || CAL_COLORS[ev.source];
     el.style.background = catColor;
+    el.style.setProperty('--card-color', catColor);
 
     el.addEventListener('mouseenter', (e) => showTooltip(e, ev));
     el.addEventListener('mouseleave', hideTooltip);
@@ -513,7 +515,7 @@ function renderDayView(container) {
         const selected = _calSelections.has(ev.id);
         const played = isPast(ev.date_end);
         const catColor = CAL_CATEGORY_COLORS[ev.distance_category] || CAL_COLORS[ev.source];
-        card.style.borderLeftColor = catColor;
+        card.style.setProperty('--card-color', catColor);
 
         if (!selected) card.classList.add('unselected');
         if (played && selected) card.classList.add('played');

@@ -42,6 +42,7 @@ function themeColors() {
         // Re-render active tab to pick up theme colors
         const activeTab = document.querySelector('.tab.active')?.dataset.tab;
         if (activeTab === 'calendar') renderCalendar();
+        if (activeTab === 'budget') renderBudget();
     });
 })();
 
