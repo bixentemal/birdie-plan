@@ -8,7 +8,7 @@ let _sortAsc = true;
 let _golfCourses = [];
 let _selectedGolf = null;
 
-const MONTH_NAMES = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const MONTH_NAMES_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
 async function loadCompetitions() {
     const [comps, sels, ovr, golfs] = await Promise.all([
@@ -33,7 +33,7 @@ function populateMonthFilter() {
     sel.innerHTML = '<option value="">All months</option>';
     for (const m of sorted) {
         const [y, mo] = m.split('-');
-        const label = MONTH_NAMES[parseInt(mo) - 1] + ' ' + y;
+        const label = MONTH_NAMES_SHORT[parseInt(mo) - 1] + ' ' + y;
         sel.innerHTML += `<option value="${m}">${label}</option>`;
     }
 }

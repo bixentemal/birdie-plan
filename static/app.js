@@ -41,7 +41,8 @@ function themeColors() {
         localStorage.setItem('theme', dark ? 'dark' : 'light');
         // Re-render active tab to pick up theme colors
         const activeTab = document.querySelector('.tab.active')?.dataset.tab;
-        if (activeTab === 'timeline') renderTimeline();
+        if (activeTab === 'calendar') renderCalendar();
+        if (activeTab === 'budget') renderBudget();
     });
 })();
 
@@ -53,7 +54,8 @@ document.querySelectorAll('.tab').forEach(btn => {
         btn.classList.add('active');
         document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
 
-        if (btn.dataset.tab === 'timeline') loadTimeline();
+        if (btn.dataset.tab === 'calendar') loadCalendar();
+        if (btn.dataset.tab === 'budget') loadBudget();
         if (btn.dataset.tab === 'map') loadMap();
         if (btn.dataset.tab === 'competitions') loadCompetitions();
         if (btn.dataset.tab === 'settings') loadCostModel();
